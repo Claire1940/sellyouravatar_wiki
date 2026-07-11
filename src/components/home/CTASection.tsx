@@ -1,7 +1,8 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { Users } from "lucide-react";
+import { Gamepad2, BookOpen } from "lucide-react";
+import Link from "next/link";
 
 interface CTASectionProps {
   title: string;
@@ -32,22 +33,21 @@ export default function CTASection({
               className="bg-[hsl(var(--nav-theme))] hover:bg-[hsl(var(--nav-theme)/0.9)] text-white px-6 md:px-8 py-5 md:py-6 text-base md:text-lg"
             >
               <a
-                href="https://discord.com/invite/lucidblocks"
+                href="https://www.roblox.com/games/102612844247090/Sell-Your-Avatar"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Users className="w-5 h-5 mr-2" />
-                {joinCommunity}
+                <Gamepad2 className="w-5 h-5 mr-2" />
+                {joinGame}
               </a>
             </Button>
-            <a
-              href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/guides"
               className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md border border-border hover:bg-white/10 px-6 md:px-8 py-5 md:py-6 text-base md:text-lg font-medium transition-colors"
             >
-              {joinGame}
-            </a>
+              <BookOpen className="w-5 h-5" />
+              {joinCommunity}
+            </Link>
           </div>
         </div>
       </div>

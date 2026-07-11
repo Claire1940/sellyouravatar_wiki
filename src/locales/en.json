@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Sell Your Avatar Wiki - Codes, Coins, Booths & Outfits",
+      "description": "Sell Your Avatar Wiki covers codes, Coins, booths, outfits, trading tips, and shop guides for the Roblox social avatar marketplace game.",
+      "keywords": "Sell Your Avatar, Sell Your Avatar wiki, Sell Your Avatar codes, Roblox Sell Your Avatar, avatar marketplace, booths, outfits, Coins",
+      "ogTitle": "Sell Your Avatar Wiki - Codes, Coins, Booths & Outfits",
+      "ogDescription": "Sell Your Avatar Wiki covers codes, Coins, booths, outfits, trading tips, and shop guides for the Roblox social avatar marketplace game.",
+      "twitterTitle": "Sell Your Avatar Wiki - Codes, Coins, Booths & Outfits",
+      "twitterDescription": "Sell Your Avatar Wiki covers codes, Coins, booths, outfits, trading tips, and shop guides for the Roblox social avatar marketplace game."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Social Avatar Marketplace",
+    "title": "Sell Your Avatar Wiki",
+    "description": "Create outfits, display them at your booth, shop player-made looks, earn Coins from purchases, and unlock avatar items usable across Roblox.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
+        "value": "3.1K",
         "label": "Players Online"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "94%",
+        "label": "Player Rating"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "34K+",
+        "label": "Community Members"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Free",
+        "label": "VIP Servers"
       }
     }
   },
@@ -785,26 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Sell Your Avatar?",
+    "description": "Jump into the Roblox social avatar marketplace, set up your booth, and start earning Coins today!",
+    "joinCommunity": "Browse Guides",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Sell Your Avatar Wiki",
+    "description": "Your complete resource hub for Sell Your Avatar codes, Coins, booths, outfits, trading, and shop guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Roblox Game",
+    "youtube": "YouTube Guide",
+    "support": "Roblox Support",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Sell Your Avatar Wiki. Not affiliated with the developers of Sell Your Avatar.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
