@@ -1,0 +1,169 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Verkaufe Deinen Avatar – Verkauf nicht erhalten: Leitfaden zur Fehlerbehebung",
+  description: "Beheben Sie das Problem 'Verkauf nicht erhalten' bei Verkaufe Deinen Avatar auf Roblox. Erfahren Sie mehr über ausstehende Robux, den Transaktionsverlauf und wie Sie Ihre Outfit-Verkäufe überprüfen.",
+  category: "Leitfaden",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Avatar+Sale+Troubleshooting",
+  date: "2026-07-11",
+  author: "sell your avatar Wiki-Team"
+}
+
+<Callout type="info" title="Kurzanleitung">
+- **Hauptfokus**: Lösen Sie das Problem **Verkauf nicht erhalten** bei „Verkaufe Deinen Avatar“, indem Sie die ausstehenden Transaktionen überprüfen.
+- **Kernmechanik**: Roblox hält alle Einnahmen aus Avatar-Outfit-Verkäufen zur Sicherheitsprüfung auf einem Sperrkonto (Escrow).
+- **Beste Strategie**: Stellen Sie sicher, dass Ihr Outfit ein benutzerdefiniertes UGC-Item oder T-Shirt enthält, um Anspruch auf Provisionen zu haben.
+- **Wichtiger Tipp**: Nutzen Sie den „Catalog Avatar Creator“, um Outfits zu veröffentlichen, wenn Sie kein Premium-Abonnement besitzen.
+- **Top-Empfehlung**: Überprüfen Sie regelmäßig den Tab „Zusammenfassung“ auf Roblox, um den genauen Status Ihrer ausstehenden Robux zu verfolgen.
+</Callout>
+
+<Section icon={Shield} title="Verkauf nicht erhalten: Die Hauptgründe">
+
+Die Erfahrung zu machen, dass ein **Verkauf bei Verkaufe Deinen Avatar nicht erhalten** wurde, kann frustrierend sein, besonders nachdem man viel Mühe in das Design des perfekten Outfits gesteckt hat. Wenn Sie ein Avatar-Outfit entwerfen und veröffentlichen, erwarten Sie, Robux zu verdienen, wenn andere Spieler es kaufen. Viele Ersteller bemerken jedoch, dass sich ihr Guthaben nicht sofort nach einem gemeldeten Verkauf aktualisiert. Diese Verzögerung hängt in der Regel mit den integrierten Transaktionsprüfungssystemen von Roblox zusammen und ist kein Systemfehler.
+
+**Video-Highlights:**
+- Lernen Sie, wie man benutzerdefinierte Outfits auf Roblox entwirft und veröffentlicht.
+- Verstehen Sie die Notwendigkeit, UGC-Items oder eigene Shirts hinzuzufügen, um Robux zu verdienen.
+- Entdecken Sie die alternative Methode der Veröffentlichung über den „Catalog Avatar Creator“ ohne Premium.
+- Erfahren Sie, wie Sie Outfit-Codes teilen, um den Umsatz zu maximieren.
+
+<YouTubeEmbed videoId="-q-6MbRnILg" title="So verkaufst du deinen AVATAR für ROBUX!" />
+
+Der häufigste Grund für fehlende Beträge ist das Roblox-Sperrsystem (Escrow). Wann immer ein Item oder Outfit verkauft wird, hält Roblox die Robux in einem ausstehenden Status („Pending“), um Betrug, unbefugte Transaktionen und Double-Spending zu verhindern. Diese Sicherheitsmaßnahme schützt sowohl den Käufer als auch den Verkäufer. Bei hoher Serverlast oder seitenweiten Updates kann es länger als gewöhnlich dauern, bis diese Transaktionsdatensätze in Ihrer Kontozusammenfassung erscheinen.
+
+| Status | Beschreibung | Typische Dauer | Erforderliche Aktion |
+| :--- | :--- | :--- | :--- |
+| Ausstehend | Robux werden von Roblox zur Sicherheitsprüfung gehalten | 3 bis 7 Tage | Warten auf Ablauf der Sperrfrist |
+| Erfolgreich | Transaktion abgeschlossen und Robux dem Guthaben hinzugefügt | Sofort nach Sperrfrist | Keine |
+| Fehlgeschlagen | Transaktion aufgrund von Zahlungsproblemen abgebrochen | Sofort | Zahlung des Käufers erneut prüfen |
+| Verzögert | Hohe Serverlast verzögert die Transaktionsprotokolle | 12 bis 24 Stunden | Statusseite prüfen |
+
+<Callout type="warning" title="Transaktionsverzögerungen">
+Der Roblox-Transaktionsverlauf kann während der Hauptspielzeiten bis zu 24 Stunden benötigen, um sich zu aktualisieren. Überprüfen Sie immer die offizielle Roblox-Statusseite, wenn Sie vermuten, dass serverseitige Verzögerungen Ihre Verkaufsaufzeichnungen beeinträchtigen.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Avatare verkaufen mit und ohne Premium">
+
+Das Verkaufen von Avataren auf Roblox erfordert ein Verständnis der Einschränkungen und Funktionen der Plattform. Je nachdem, ob Sie ein aktives Roblox Premium-Abonnement haben, unterscheidet sich Ihre Methode zum Veröffentlichen und Verkaufen von Outfits. Premium-Nutzer haben direkten Zugriff auf die Avatar-Erstellungstools innerhalb der Roblox-Hauptoberfläche, während Nicht-Premium-Nutzer auf In-Game-Erstellungssuiten von Drittanbietern angewiesen sind.
+
+Um Robux mit Ihren Outfit-Verkäufen zu verdienen, muss der Avatar mindestens ein von Benutzern erstelltes Inhaltselement (UGC), ein Shirt oder ein T-Shirt enthalten, das Sie selbst erstellt haben. Wenn Ihr Outfit nur Gegenstände enthält, die von anderen Spielern erstellt wurden, erhalten Sie keine Erstellerprovision.
+
+<CardGrid cols={2}>
+  <Card title="Premium-Methode">
+    - **Direkter Upload**: Zugriff über das Plus-Zeichen im Avatar-Editor.
+    - **Eigene Beschreibung**: Fügen Sie direkt einen eindeutigen Namen und eine Beschreibung hinzu.
+    - **Robux-Kosten**: Kostenlose Veröffentlichung, wenn Sie ein aktives Abonnement haben.
+  </Card>
+  <Card title="Catalog Avatar Creator">
+    - **Kein Premium erforderlich**: Nutzen Sie das Veröffentlichungsterminal im Spiel.
+    - **Outfit-Codes**: Generieren Sie teilbare Codes für Community-Outfits.
+    - **Hohe Sichtbarkeit**: Erreichen Sie Millionen von Spielern direkt im Spiel.
+  </Card>
+</CardGrid>
+
+| Feature | Premium-Methode | Catalog Avatar Creator Methode |
+| :--- | :--- | :--- |
+| Abonnement erforderlich | Ja | Nein |
+| Veröffentlichungsort | Roblox-Katalog | In-Game Community-Outfits |
+| Erstellungskosten | Kostenlos | Kostenlos |
+| Code-Generierung | Nein | Ja |
+| Provisionsberechtigung | Ja | Ja |
+
+<Callout type="tip" title="Optimierung der Provision">
+Stellen Sie immer sicher, dass Ihr benutzerdefiniertes T-Shirt oder UGC-Item korrekt bepreist ist, bevor Sie es Ihrem Avatar hinzufügen. Wenn das Item auf „Nicht zum Verkauf“ eingestellt ist, verdienen Sie keine Robux, wenn Spieler das Outfit kaufen.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Schritt-für-Schritt-Fehlerbehebung bei fehlenden Verkäufen">
+
+Wenn Sie sicher sind, dass ein Verkauf stattgefunden hat, Ihr Guthaben sich aber nicht aktualisiert hat, folgen Sie diesen Schritten zur Fehlerbehebung, um Ihre Gelder zu finden und den Transaktionsstatus zu überprüfen.
+
+<Steps>
+  <Step num="1" title="Roblox-Transaktionen aufrufen">
+    Loggen Sie sich über einen Webbrowser in Ihr Roblox-Konto ein. Navigieren Sie zum Tab „Handel“ (Trade) in der linken Seitenleiste und klicken Sie auf die Option „Zusammenfassung“ (Summary), um Ihre ausstehenden Verkäufe anzuzeigen.
+  </Step>
+  <Step num="2" title="Ausstehende Robux prüfen">
+    Schauen Sie in den Bereich „Ausstehende Robux“ (Pending Robux). Wenn Ihr Verkauf registriert wurde, werden die Robux hier aufgelistet. Dieses Guthaben ist getrennt von Ihrem aktiven Guthaben für Ausgaben.
+  </Step>
+  <Step num="3" title="Outfit-Asset-Einstellungen verifizieren">
+    Gehen Sie in Ihr Inventar und wählen Sie das im Outfit verwendete UGC-Item oder T-Shirt aus. Stellen Sie sicher, dass das Item als „Zum Verkauf“ konfiguriert ist und einen gültigen Preis hat.
+  </Step>
+  <Step num="4" title="Community-Outfit-Status bestätigen">
+    Wenn Sie den „Catalog Avatar Creator“ verwendet haben, öffnen Sie das Spiel und prüfen Sie den Tab „Community-Outfits“. Bestätigen Sie, dass Ihr Outfit nicht moderiert oder entfernt wurde.
+  </Step>
+</Steps>
+
+| Schritt der Fehlerbehebung | Was zu prüfen ist | Erwartetes Ergebnis |
+| :--- | :--- | :--- |
+| Schritt 1: Handel-Tab | Details der Zusammenfassungsseite | Liste der jüngsten Transaktionen einsehen |
+| Schritt 2: Ausstehendes Guthaben | Summe der ausstehenden Robux | Bestätigen, dass Gelder im Escrow sind |
+| Schritt 3: Asset-Einstellungen | „Zum Verkauf“-Schalter | Sicherstellen, dass das Item kaufbar ist |
+| Schritt 4: Spiel-Katalog | Moderationsstatus des Outfits | Aktive Listung bestätigen |
+
+<Callout type="info" title="Dauer der Sperrfrist">
+Ausstehende Robux können nicht durch den Support beschleunigt werden. Die Haltefrist ist vollständig automatisiert und hängt von der Größe der Transaktion und der Kontohistorie ab.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Robux-Verteilung und Provisionsraten">
+
+Wenn ein Spieler Ihr Avatar-Outfit kauft, werden die ausgegebenen Robux auf mehrere Parteien verteilt. Das Verständnis dieser Verteilung hilft Ihnen zu berechnen, wie viele Robux Sie genau erhalten sollten, und beugt Verwirrung vor, wenn die endgültige Auszahlung auf Ihrem Konto eintrifft.
+
+Die Verteilung hängt davon ab, wer die einzelnen Gegenstände innerhalb des Outfits erstellt hat. Wenn Sie die Kleidungsstücke selbst entworfen haben, erhalten Sie einen höheren Prozentsatz, als wenn Sie lediglich Gegenstände zusammengestellt haben, die von anderen Roblox-Erstellern entworfen wurden.
+
+| Kategorie der Umsatzbeteiligung | Prozentsatz | Empfänger |
+| :--- | :--- | :--- |
+| Plattformgebühr | 30% | Roblox Corporation |
+| Outfit-Ersteller-Provision | 10% | Der Benutzer, der das Outfit veröffentlicht hat |
+| Item-Ersteller-Provision | 60% | Der Ersteller der einzelnen UGC-/Kleidungsstücke |
+
+<Checklist
+  id="avatar-sale-checklist"
+  title="Checkliste zur Verifizierung vor der Veröffentlichung:"
+  items={[
+    "Verifizieren Sie, dass Ihr benutzerdefiniertes T-Shirt oder UGC-Item auf öffentlichen Verkauf eingestellt ist",
+    "Prüfen Sie, ob das Outfit im öffentlichen Community-Katalog sichtbar ist",
+    "Bestätigen Sie, dass Ihr Roblox-Konto in gutem Zustand ist und keine aktiven Warnungen vorliegen",
+    "Stellen Sie sicher, dass Sie mindestens 7 Tage gewartet haben, bis die ausstehenden Robux freigegeben wurden"
+  ]}
+/>
+
+<Callout type="success" title="Einnahmen maximieren">
+Um die maximal möglichen Robux zu verdienen, entwerfen Sie sowohl das Outfit-Layout als auch die einzelnen Shirts oder UGC-Accessoires, die im Design verwendet werden. Dies ermöglicht es Ihnen, sowohl die Outfit- als auch die Item-Ersteller-Provision zu kassieren.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Häufig gestellte Fragen (FAQ)">
+
+<FAQ items={[
+  {
+    question: "Warum wird mein Verkauf bei Verkaufe Deinen Avatar nicht sofort meinem Guthaben gutgeschrieben?",
+    answer: "Roblox hält alle Einnahmen aus Avatar-Verkäufen für 3 bis 7 Tage in einem ausstehenden Status, um die Sicherheit der Transaktion zu überprüfen. Sie können diese Gelder im Bereich 'Ausstehende Robux' in Ihrer Transaktionszusammenfassung sehen."
+  },
+  {
+    question: "Kann ich Outfits verkaufen und Robux verdienen, ohne ein Premium-Abonnement zu haben?",
+    answer: "Ja. Sie können das Spiel 'Catalog Avatar Creator' verwenden, um Ihre Outfits im Community-Katalog zu veröffentlichen. Sie verdienen weiterhin Robux-Provisionen, wenn Ihr Outfit Gegenstände enthält, die Sie selbst erstellt haben."
+  },
+  {
+    question: "Was passiert, wenn ein Käufer den Kauf rückgängig macht?",
+    answer: "Wenn eine Transaktion von der Roblox-Moderation markiert oder rückgängig gemacht wird, werden die ausstehenden Robux von Ihrem Sperrkonto entfernt und der Verkauf wird als ungültig markiert."
+  },
+  {
+    question: "Warum erscheinen meine ausstehenden Robux nicht in meinem Transaktionsverlauf?",
+    answer: "Dies geschieht normalerweise aufgrund von Serververzögerungen oder weil die Zahlungsmethode des Käufers von Roblox noch nicht vollständig verarbeitet wurde. Warten Sie bis zu 24 Stunden, bis das System aktualisiert wird."
+  }
+]} />
+
+</Section>

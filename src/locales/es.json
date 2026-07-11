@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "guide": "Guía",
+    "robux": "Robux",
+    "items": "Objetos",
+    "mobile": "Móvil",
+    "marketplace": "Mercado",
+    "clothing": "Ropa",
+    "troubleshooting": "Problemas",
+    "refunds": "Reembolsos"
+  }
+}

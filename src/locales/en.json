@@ -10,7 +10,16 @@
       "twitterDescription": "Sell Your Avatar Wiki covers codes, Coins, booths, outfits, trading tips, and shop guides for the Roblox social avatar marketplace game."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "robux": "Robux",
+    "items": "Items",
+    "mobile": "Mobile",
+    "marketplace": "Marketplace",
+    "clothing": "Clothing",
+    "troubleshooting": "Troubleshooting",
+    "refunds": "Refunds"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -652,165 +661,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "codes": {
-      "title": "Sell Your Avatar Codes",
-      "description": "Track active and expired Sell Your Avatar promo codes, learn how to redeem them, and see what rewards each code unlocks.",
-      "metaTitle": "Sell Your Avatar Codes - Active & Expired Promo Codes",
-      "metaDescription": "Check every Sell Your Avatar code, its reward, and the exact redemption steps inside the shopping menu's Promocodes button.",
-      "categoryLabel": "PROMO CODES",
-      "whatIs": "What are Sell Your Avatar codes?",
-      "whatIsDescription": "Sell Your Avatar codes are promo codes redeemed through the in-game shopping menu's Promocodes button for Coins and other rewards.",
-      "why": "Why check codes?",
+    "guide": {
+      "title": "Sell Your Avatar Guide",
+      "description": "Learn how Sell Your Avatar works on Roblox: create outfits, claim a booth, shop player looks, and earn Coins across the social marketplace.",
+      "metaTitle": "Sell Your Avatar Guide - How It Works on Roblox",
+      "metaDescription": "Master Sell Your Avatar on Roblox with step-by-step guides on creating outfits, claiming booths, shopping looks, and earning Coins.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What is Sell Your Avatar?",
+      "whatIsDescription": "Sell Your Avatar is a Roblox social avatar marketplace where you build outfits, display them at a booth, browse and buy pieces from other players, and earn Coins from every purchase.",
+      "why": "Why read these guides?",
       "whySteps": {
-        "step1Title": "Claim Free Coins",
-        "step1Description": "Active codes add Coins and other rewards to your balance instantly.",
-        "step2Title": "Never Miss a Drop",
-        "step2Description": "Codes can expire, so checking regularly keeps your rewards current.",
-        "step3Title": "Redeem Correctly",
-        "step3Description": "Follow the exact Promocodes steps so every code submits without errors."
+        "step1Title": "Start with the Basics",
+        "step1Description": "Understand the outfit-to-booth-to-purchase loop so your very first session is productive.",
+        "step2Title": "Meet the Requirements",
+        "step2Description": "Check the account and membership requirements before you publish or sell any item.",
+        "step3Title": "Play Step by Step",
+        "step3Description": "Follow clear walkthroughs for creating, listing, and selling your avatar looks."
       },
-      "featured": "Featured & Essential",
-      "all": "All Codes"
+      "featured": "Featured Guides",
+      "all": "All Guides"
     },
-    "beginner-guide": {
-      "title": "Sell Your Avatar Beginner Guide",
-      "description": "Learn the full Sell Your Avatar gameplay loop, from creating an outfit to claiming a booth and earning your first Coins.",
-      "metaTitle": "Sell Your Avatar Beginner Guide - How to Play",
-      "metaDescription": "Start Sell Your Avatar the right way: build outfits, claim a booth, shop player looks, and earn Coins with this beginner walkthrough.",
-      "categoryLabel": "GETTING STARTED",
-      "whatIs": "What is the beginner guide?",
-      "whatIsDescription": "A step-by-step walkthrough of the Sell Your Avatar gameplay loop for first-time players.",
-      "why": "Why read it?",
+    "robux": {
+      "title": "Sell Your Avatar Robux Guide",
+      "description": "Turn Sell Your Avatar creations into Robux: track payouts, fees, and proven ways to earn from every item you sell on Roblox.",
+      "metaTitle": "Sell Your Avatar Robux Guide - Earn Real Payouts",
+      "metaDescription": "Learn how to earn Robux in Sell Your Avatar, including payout timing, marketplace fees, and the best items to sell for profit.",
+      "categoryLabel": "ROBUX",
+      "whatIs": "How do Robux payouts work?",
+      "whatIsDescription": "When players buy your Sell Your Avatar creations, the Robux you earn is processed through Roblox's standard payout system after marketplace fees are applied.",
+      "why": "Why track your Robux?",
       "whySteps": {
-        "step1Title": "Understand the Loop",
-        "step1Description": "See how outfits, booths, and Coins connect from your first session.",
-        "step2Title": "Avoid Early Mistakes",
-        "step2Description": "Learn which first purchases give the most value.",
-        "step3Title": "Earn Faster",
-        "step3Description": "Set up your booth and shopping routine for steady Coin income."
+        "step1Title": "Know Your Payouts",
+        "step1Description": "See exactly how much Robux each sale adds to your balance after fees.",
+        "step2Title": "Time the Pending Window",
+        "step2Description": "Plan around Roblox's pending-Robux window so you know when funds will arrive.",
+        "step3Title": "Maximize Earnings",
+        "step3Description": "Pick the items and price points that consistently earn the most Robux."
       },
-      "featured": "Featured & Essential",
-      "all": "All Beginner Guides"
+      "featured": "Featured Robux Guides",
+      "all": "All Robux Guides"
     },
-    "coins-guide": {
-      "title": "Sell Your Avatar Coins Guide",
-      "description": "Master every confirmed way to earn and spend Coins in Sell Your Avatar with practical sales and spending tips.",
-      "metaTitle": "Sell Your Avatar Coins Guide - Earn & Spend Coins",
-      "metaDescription": "Every confirmed way to earn and spend Coins in Sell Your Avatar, plus sales and spending tips that make your currency go further.",
-      "categoryLabel": "CURRENCY GUIDE",
-      "whatIs": "What is the Coins guide?",
-      "whatIsDescription": "A complete breakdown of how Coins are earned and spent across the Sell Your Avatar booth economy.",
-      "why": "Why use it?",
+    "items": {
+      "title": "Sell Your Avatar Items Guide",
+      "description": "Sell Sell Your Avatar items for Robux: accessories, creations, and limited pieces, plus how purchased items enter your Roblox inventory.",
+      "metaTitle": "Sell Your Avatar Items Guide - Accessories, Creations & Limiteds",
+      "metaDescription": "Discover how to sell Sell Your Avatar items for Robux, including accessories, player creations, and limited items that hold resale value.",
+      "categoryLabel": "ITEMS",
+      "whatIs": "What can you sell?",
+      "whatIsDescription": "Sell Your Avatar lets you list accessories, custom creations, and selected limited items so other players can buy them and add them to their own Roblox inventory.",
+      "why": "Why sell items?",
       "whySteps": {
-        "step1Title": "Earn Confirmed Coins",
-        "step1Description": "Focus on the two direct earning methods that always work.",
-        "step2Title": "Sell Smarter",
-        "step2Description": "Apply sales tips that make your booth convert better.",
-        "step3Title": "Spend Wisely",
-        "step3Description": "Put Coins toward avatar items you will actually wear."
+        "step1Title": "Reach More Buyers",
+        "step1Description": "Listed items appear to every player shopping the avatar marketplace.",
+        "step2Title": "Earn from Creations",
+        "step2Description": "Turn your custom accessories and designs into steady Robux income.",
+        "step3Title": "Trade Limiteds",
+        "step3Description": "Limited items can hold value and become sought-after collectibles over time."
       },
-      "featured": "Featured & Essential",
-      "all": "All Coins Guides"
+      "featured": "Featured Items Guides",
+      "all": "All Items Guides"
     },
-    "booth-outfit-guide": {
-      "title": "Sell Your Avatar Booth and Outfit Guide",
-      "description": "Create coordinated outfits, set up an attractive booth, and turn your displayed looks into reliable Coin income.",
-      "metaTitle": "Sell Your Avatar Booth & Outfit Guide",
-      "metaDescription": "Build better Sell Your Avatar outfits and booths: theme selection, full looks, booth placement, and ongoing display updates.",
-      "categoryLabel": "OUTFIT SELLING",
-      "whatIs": "What is the booth and outfit guide?",
-      "whatIsDescription": "A practical guide to creating outfits and presenting them on a booth so other players want to shop them.",
-      "why": "Why follow it?",
+    "mobile": {
+      "title": "Sell Your Avatar Mobile Guide",
+      "description": "Play and sell on Sell Your Avatar from iPhone, iPad, and Android: full mobile upload, listing, and booth setup steps that work on touch.",
+      "metaTitle": "Sell Your Avatar Mobile Guide - iPhone, iPad & Android",
+      "metaDescription": "Use Sell Your Avatar on Roblox mobile (iPhone, iPad, Android) with full steps for uploading, listing, and selling outfits on a touch screen.",
+      "categoryLabel": "MOBILE",
+      "whatIs": "Can you sell on mobile?",
+      "whatIsDescription": "Yes. Sell Your Avatar runs on iPhone, iPad, and Android through the Roblox app, so you can create, upload, and sell outfits entirely from your phone or tablet.",
+      "why": "Why a dedicated mobile guide?",
       "whySteps": {
-        "step1Title": "Build Better Looks",
-        "step1Description": "Pick themes and items that read clearly to shoppers.",
-        "step2Title": "Present Well",
-        "step2Description": "Place complete outfits on visible booths.",
-        "step3Title": "Keep Improving",
-        "step3Description": "Refresh displays as your inventory grows."
+        "step1Title": "Touch-Friendly Steps",
+        "step1Description": "Follow upload and listing flows designed for small touchscreens.",
+        "step2Title": "Works on Every Device",
+        "step2Description": "Cover iPhone, iPad, and Android with one consistent process.",
+        "step3Title": "Sell on the Go",
+        "step3Description": "Manage your booth and sales from anywhere without needing a PC."
       },
-      "featured": "Featured & Essential",
-      "all": "All Booth & Outfit Guides"
+      "featured": "Featured Mobile Guides",
+      "all": "All Mobile Guides"
     },
-    "items-and-rewards-guide": {
-      "title": "Sell Your Avatar Items and Rewards",
-      "description": "See how avatar items, Coins, and purchases flow through Sell Your Avatar and into your Roblox inventory.",
-      "metaTitle": "Sell Your Avatar Items & Rewards Guide",
-      "metaDescription": "Understand every action, cost, reward, and item destination in Sell Your Avatar, including how purchases land in your Roblox inventory.",
-      "categoryLabel": "ITEMS & REWARDS",
-      "whatIs": "What are items and rewards?",
-      "whatIsDescription": "A clear map of what you spend, what you earn, and where each reward ends up in Sell Your Avatar.",
-      "why": "Why check it?",
+    "marketplace": {
+      "title": "Sell Your Avatar Marketplace Guide",
+      "description": "Upload and publish Sell Your Avatar creations to the Roblox marketplace and Catalog Avatar Creator, including UGC items that sell to all players.",
+      "metaTitle": "Sell Your Avatar Marketplace Guide - Upload, Publish & UGC",
+      "metaDescription": "Learn how to upload and publish Sell Your Avatar items to the Roblox marketplace and Catalog Avatar Creator, including UGC item publishing.",
+      "categoryLabel": "MARKETPLACE",
+      "whatIs": "What is the marketplace flow?",
+      "whatIsDescription": "The Roblox marketplace is where your Sell Your Avatar creations get uploaded, reviewed, and published so any player can discover and buy them.",
+      "why": "Why publish to the marketplace?",
       "whySteps": {
-        "step1Title": "Know the Cost",
-        "step1Description": "See exactly what each action costs before you commit.",
-        "step2Title": "Track Rewards",
-        "step2Description": "Confirm where Coins and items are delivered.",
-        "step3Title": "Buy Confidently",
-        "step3Description": "Use previews and confirmation screens to avoid mistakes."
+        "step1Title": "Upload Correctly",
+        "step1Description": "Submit assets the right way so they pass review on the first try.",
+        "step2Title": "Publish with Catalog Avatar Creator",
+        "step2Description": "Use Catalog Avatar Creator to turn outfits into sellable listings.",
+        "step3Title": "Sell UGC Items",
+        "step3Description": "Reach the widest audience by listing your items as UGC."
       },
-      "featured": "Featured & Essential",
-      "all": "All Items & Rewards Guides"
+      "featured": "Featured Marketplace Guides",
+      "all": "All Marketplace Guides"
     },
-    "inventory-and-equip-guide": {
-      "title": "Sell Your Avatar Inventory and Equip Guide",
-      "description": "Find your purchased Sell Your Avatar items in the Roblox inventory and equip them on browser, phone, or tablet.",
-      "metaTitle": "Sell Your Avatar Inventory & Equip Guide",
-      "metaDescription": "Locate Sell Your Avatar items in your Roblox inventory and equip them across browser, phone, and tablet, then wear them in other experiences.",
-      "categoryLabel": "INVENTORY & AVATAR",
-      "whatIs": "What is the inventory and equip guide?",
-      "whatIsDescription": "Step-by-step instructions for finding and equipping avatar items obtained through Sell Your Avatar.",
-      "why": "Why use it?",
+    "clothing": {
+      "title": "Sell Your Avatar Clothing Guide",
+      "description": "Sell Sell Your Avatar clothes on Roblox: classic clothing, layered clothing, upload steps, and sales tips that move your designs faster.",
+      "metaTitle": "Sell Your Avatar Clothing Guide - Classic & Layered Clothes",
+      "metaDescription": "Make and sell Sell Your Avatar clothing on Roblox, including classic clothing, layered clothing, upload requirements, and sales strategies.",
+      "categoryLabel": "CLOTHING",
+      "whatIs": "What clothing can you sell?",
+      "whatIsDescription": "Sell Your Avatar supports both classic clothing (2D shirts and pants) and layered clothing (3D items that fit any avatar), giving you two formats to design and sell.",
+      "why": "Why focus on clothing?",
       "whySteps": {
-        "step1Title": "Find Items Fast",
-        "step1Description": "Check the right inventory category for each item type.",
-        "step2Title": "Equip Anywhere",
-        "step2Description": "Equip on browser, phone, or tablet with the same steps.",
-        "step3Title": "Wear Across Roblox",
-        "step3Description": "Use your items in any experience that supports standard avatars."
+        "step1Title": "Two Formats",
+        "step1Description": "Choose between classic and layered clothing based on your design skills.",
+        "step2Title": "Clean Uploads",
+        "step2Description": "Meet template and upload rules so your clothes go live quickly.",
+        "step3Title": "Boost Sales",
+        "step3Description": "Price and display your clothing to attract more buyers."
       },
-      "featured": "Featured & Essential",
-      "all": "All Inventory & Equip Guides"
+      "featured": "Featured Clothing Guides",
+      "all": "All Clothing Guides"
     },
-    "roblox-plus-benefits": {
-      "title": "Sell Your Avatar Roblox Plus Benefits",
-      "description": "Compare the exclusive booth and every Roblox Plus benefit available inside Sell Your Avatar.",
-      "metaTitle": "Sell Your Avatar Roblox Plus Benefits Guide",
-      "metaDescription": "See how Roblox Plus changes Sell Your Avatar, from the exclusive booth to purchase discounts and free private servers.",
-      "categoryLabel": "ROBLOX PLUS",
-      "whatIs": "What are the Roblox Plus benefits?",
-      "whatIsDescription": "A side-by-side comparison of Roblox Plus and standard accounts for Sell Your Avatar players.",
-      "why": "Why compare?",
+    "troubleshooting": {
+      "title": "Sell Your Avatar Troubleshooting",
+      "description": "Fix Sell Your Avatar problems fast: items not showing, marketplace and upload errors, pending Robux, and sales that never arrived.",
+      "metaTitle": "Sell Your Avatar Troubleshooting - Fixes for Errors & Pending Robux",
+      "metaDescription": "Solve common Sell Your Avatar issues, including items not showing, upload and marketplace errors, pending Robux, and missing sales.",
+      "categoryLabel": "SUPPORT",
+      "whatIs": "What can go wrong?",
+      "whatIsDescription": "Most Sell Your Avatar issues come from upload errors, listing delays, or Robux pending windows, and each one has a known fix you can apply in a few steps.",
+      "why": "Why use this troubleshooting hub?",
       "whySteps": {
-        "step1Title": "Exclusive Booth",
-        "step1Description": "Unlock the booth design reserved for Plus subscribers.",
-        "step2Title": "Purchase Discounts",
-        "step2Description": "Save on eligible avatar and in-experience purchases.",
-        "step3Title": "Private Servers",
-        "step3Description": "Create free private servers across supported experiences."
+        "step1Title": "Find the Real Cause",
+        "step1Description": "Match your exact error to a proven fix instead of guessing.",
+        "step2Title": "Fix Uploads and Listings",
+        "step2Description": "Resolve marketplace errors so your items show up for buyers.",
+        "step3Title": "Track Pending Robux",
+        "step3Description": "Know when pending Robux and missing sales actually arrive."
       },
-      "featured": "Featured & Essential",
-      "all": "All Roblox Plus Guides"
+      "featured": "Featured Troubleshooting",
+      "all": "All Troubleshooting"
     },
-    "vip-servers-and-updates": {
-      "title": "Sell Your Avatar VIP Servers and Updates",
-      "description": "Set up a free VIP server, check game status, and follow official Sell Your Avatar updates.",
-      "metaTitle": "Sell Your Avatar VIP Servers & Updates Guide",
-      "metaDescription": "Create a free Sell Your Avatar VIP server, troubleshoot lag and outages, and stay current with official developer updates.",
-      "categoryLabel": "SERVERS & UPDATES",
-      "whatIs": "What are VIP servers and updates?",
-      "whatIsDescription": "Practical steps for running a free VIP server and tracking official Sell Your Avatar availability and announcements.",
-      "why": "Why check it?",
+    "refunds": {
+      "title": "Sell Your Avatar Refunds Guide",
+      "description": "Get Robux back in Sell Your Avatar: refund and return rules for items and clothing, plus how to handle accidental purchases the right way.",
+      "metaTitle": "Sell Your Avatar Refunds Guide - Get Robux Back",
+      "metaDescription": "Understand Sell Your Avatar refunds, including how to get Robux back, return items and clothing, and Roblox's refund policy for purchases.",
+      "categoryLabel": "REFUNDS",
+      "whatIs": "How do refunds work?",
+      "whatIsDescription": "Sell Your Avatar purchases follow Roblox's refund policy, which defines when Robux can be returned and how item and clothing returns are handled.",
+      "why": "Why know the refund rules?",
       "whySteps": {
-        "step1Title": "Beat the Lag",
-        "step1Description": "Spin up a free VIP server when public servers are crowded.",
-        "step2Title": "Spot Outages",
-        "step2Description": "Tell the difference between local lag and Roblox-wide issues.",
-        "step3Title": "Stay Updated",
-        "step3Description": "Follow the official pages for reopenings and announcements."
+        "step1Title": "Recover Robux",
+        "step1Description": "See the exact cases where a purchase can actually be reversed.",
+        "step2Title": "Return Items and Clothing",
+        "step2Description": "Follow the correct process for unwanted items and clothes.",
+        "step3Title": "Avoid Mistakes",
+        "step3Description": "Confirm purchases the right way to reduce accidental buys."
       },
-      "featured": "Featured & Essential",
-      "all": "All Servers & Updates Guides"
+      "featured": "Featured Refunds Guides",
+      "all": "All Refunds Guides"
     }
   }
 }

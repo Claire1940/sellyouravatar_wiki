@@ -1,0 +1,171 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Ropa Clásica de Vender Tu Avatar: Tutorial Paso a Paso 2026",
+  description: "Aprende cómo vender ropa clásica de tu avatar en Roblox. Sigue nuestro tutorial paso a paso de 2026 para diseñar, subir y ganar Robux.",
+  category: "Tutorial",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Sell+Your+Avatar+Classic+Clothing",
+  date: "2026-07-11",
+  author: "Equipo de la Wiki de Vender Tu Avatar",
+  keywords: "Roblox, ropa clásica, vender avatar, tutorial, Robux, diseño de ropa"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Estrategia Principal**: Aprende cómo **vender ropa clásica de tu avatar** para construir un flujo constante de Robux en 2026.
+- **Requisito de Costo**: Prepara una **tarifa de subida de 10 Robux** por cada diseño de camisa o pantalón clásico que publiques.
+- **Plataformas Alternativas**: Aprovecha juegos como **Catalog Avatar Creator** para mostrar conjuntos y vender ropa sin necesidad de Premium.
+- **Consejo de Optimización**: Usa **palabras clave y etiquetas** relevantes en las descripciones de tus productos para mejorar la visibilidad en las búsquedas del mercado.
+</Callout>
+
+<Section icon={Sparkles} title="Primeros Pasos con la Personalización del Avatar">
+
+Para monetizar tus diseños creativos en Roblox, debes entender los fundamentos de la creación y distribución de ropa clásica. La ropa clásica consiste en texturas 2D aplicadas a la superficie del cuerpo 3D de un avatar. A diferencia de la ropa de capas UGC moderna, los artículos clásicos son más fáciles de diseñar pero requieren una pequeña inversión inicial para subirlos. Ya sea que estés diseñando camisas, pantalones o camisetas personalizadas, tener una estrategia clara asegura que tus creaciones destaquen en un mercado saturado.
+
+**Puntos Destacados del Video:**
+- Aprende cómo incluir camisas personalizadas y artículos UGC en tu avatar.
+- Descubre cómo publicar conjuntos directamente usando el editor de avatares integrado.
+- Explora Catalog Avatar Creator para compartir conjuntos y ganar Robux sin Premium.
+
+<YouTubeEmbed videoId="-q-6MbRnILg" title="¡Cómo vender tu AVATAR por ROBUX!" />
+
+Elegir el software de diseño adecuado es el primer paso para crear ropa clásica de alta calidad. Herramientas gratuitas como Photopea, GIMP o Paint.NET son excelentes opciones para principiantes, mientras que Adobe Photoshop ofrece funciones avanzadas para diseñadores profesionales. Debes descargar las plantillas oficiales de ropa de Roblox para asegurar que tus diseños se alineen perfectamente con las extremidades del avatar. El uso de capas transparentes es crucial al añadir sombreado y texturas, ya que esto le da a tu ropa una apariencia 3D realista cuando la usan los jugadores.
+
+| Tipo de Ropa | Tarifa de Subida | Requisito de Formato | Requiere Premium |
+| :--- | :--- | :--- | :--- |
+| Camiseta Clásica | Gratis (10 Robux para vender) | 512x512 PNG/JPG | No |
+| Camisa Clásica | 10 Robux | Plantilla 585x559 | No |
+| Pantalones Clásicos | 10 Robux | Plantilla 585x559 | No |
+
+<Callout type="info" title="Aviso sobre Tarifas de Subida">
+Mientras que subir camisas y pantalones clásicos cuesta 10 Robux, las camisetas clásicas son gratuitas para subir pero requieren una tarifa de 10 Robux para ponerlas a la venta en el mercado.
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="Proceso de Subida Paso a Paso">
+
+Publicar tus diseños en la plataforma Roblox requiere navegar por el Panel de Creación (Creator Dashboard). Debes asegurarte de que tus plantillas estén perfectamente alineadas para evitar costuras en la textura o rechazos durante el proceso de moderación. Antes de subir, se recomienda encarecidamente probar tus diseños en Roblox Studio usando un modelo (dummy rig) para verificar problemas de alineación.
+
+<Steps>
+  <Step num="1" title="Diseñar la Plantilla">
+    Descarga la plantilla oficial de ropa clásica de Roblox y usa un editor de fotos para pintar tu diseño en las secciones designadas.
+  </Step>
+  <Step num="2" title="Acceder al Panel">
+    Navega al Panel de Creación de Roblox, selecciona la pestaña "Objetos de desarrollo" y elige la categoría de ropa clásica.
+  </Step>
+  <Step num="3" title="Subir el Archivo">
+    Elige la categoría correcta (Camisas o Pantalones), selecciona tu archivo de plantilla guardado, nombra tu artículo y paga la tarifa de 10 Robux.
+  </Step>
+  <Step num="4" title="Configurar para la Venta">
+    Abre la configuración del artículo subido, activa la opción "En venta", establece el precio deseado en Robux y guarda los cambios.
+  </Step>
+</Steps>
+
+Probar tu ropa en un entorno local de Roblox Studio te ahorra dinero y tiempo. Si subes una plantilla con errores de alineación, tendrás que pagar la tarifa de 10 Robux nuevamente para subir la versión corregida. Usa el plugin "Rig Builder" en Roblox Studio, inserta un modelo R15 de bloques y aplica el ID de tu ropa para previsualizar cómo se conectan las costuras en los hombros, el torso y las piernas.
+
+| Parte del Cuerpo | Ancho (Píxeles) | Alto (Píxeles) | Ubicación en Plantilla |
+| :--- | :--- | :--- | :--- |
+| Torso | 128 | 128 | Centro |
+| Brazos / Piernas | 64 | 128 | Laterales |
+| Hombros / Pies | 64 | 64 | Superior e Inferior |
+
+<Callout type="warning" title="Pautas de Moderación">
+Asegúrate de que tus diseños cumplan con las Normas de la Comunidad de Roblox. El texto inapropiado, los logotipos con derechos de autor o las imágenes engañosas pueden resultar en rechazos automáticos y advertencias en la cuenta.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Métodos de Personalización y Ventas en el Juego">
+
+Después de subir tu ropa clásica, puedes mostrarla directamente en tu avatar. Vender tus diseños a través de conjuntos completos es una de las formas más efectivas de atraer compradores. A los jugadores les encanta comprar conjuntos completos en lugar de buscar piezas individuales. Puedes aprovechar tanto las herramientas oficiales de la plataforma como los juegos populares de terceros para exhibir tus creaciones.
+
+<CardGrid cols={3}>
+  <Card title="Método de Roblox Premium">
+    Usa el editor de avatares nativo para crear y publicar tus conjuntos directamente en el catálogo de la tienda de avatares de Roblox.
+  </Card>
+  <Card title="Catalog Avatar Creator">
+    Usa este popular editor de catálogos dentro del juego para publicar conjuntos, generar códigos de vestimenta y ganar comisiones.
+  </Card>
+  <Card title="Ventas en la Tienda del Grupo">
+    Sube tu ropa clásica a la tienda de un Grupo de Roblox para distribuir fondos a los miembros del grupo y construir una marca.
+  </Card>
+</CardGrid>
+
+Construir una marca cohesiva en torno a una estética específica (como streetwear, fantasía o ropa casual) ayuda a retener clientes. Cuando los jugadores compran una de tus camisas, es probable que busquen pantalones que combinen. Crear un Grupo de Roblox te permite organizar tu catálogo, interactuar con tu comunidad y organizar concursos de diseño para aumentar el compromiso.
+
+| Canal de Distribución | Tasa de Comisión | Dificultad de Configuración | Público Objetivo |
+| :--- | :--- | :--- | :--- |
+| Mercado de Roblox | 70% para el creador | Media | Plataforma Global |
+| Catalog Avatar Creator | 10% afiliado + 70% creador | Fácil | Jugadores Activos |
+| Tienda de Grupo Roblox | 70% para el grupo | Media | Miembros de la Comunidad |
+
+<Callout type="tip" title="Bono de Comisión de Afiliado">
+Cuando alguien compra tu ropa clásica dentro de Catalog Avatar Creator, ganas la parte estándar del creador más una comisión de afiliado adicional si compran el conjunto completo.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Maximizando Ventas e Ingresos">
+
+El éxito en el mercado de ropa de Roblox requiere más que solo subir diseños. Debes promocionar activamente tus artículos y optimizar tus listados para que aparezcan más arriba en los resultados de búsqueda. El uso de palabras clave relevantes en los títulos y descripciones de tus artículos es crucial para la visibilidad orgánica.
+
+<Checklist
+  id="marketing-goals"
+  title="Hitos de Marketing:"
+  items={[
+    "Optimizar títulos con palabras clave como Aesthetic, Y2K o Streetwear",
+    "Establecer precios competitivos entre 5 y 7 Robux para artículos clásicos",
+    "Compartir códigos de conjuntos en redes sociales como TikTok y Discord",
+    "Crear conjuntos combinados para fomentar compras dobles"
+  ]}
+/>
+
+La promoción externa es una herramienta poderosa para dirigir tráfico a tus listados de Roblox. Crear contenido de video de formato corto en TikTok, YouTube Shorts o Pinterest mostrando tus avatares con tu ropa personalizada puede generar miles de visitas. Incluye siempre un enlace directo a tu Grupo de Roblox o al listado del artículo específico en tu biografía de redes sociales para que la compra sea lo más fluida posible para tus espectadores.
+
+| Precio de Venta | Comisión Roblox (30%) | Ganancia Creador (70%) | Competitividad Mercado |
+| :--- | :--- | :--- | :--- |
+| 5 Robux | 2 Robux | 3 Robux | Alta (Precio Estándar) |
+| 7 Robux | 2 Robux | 5 Robux | Media |
+| 10 Robux | 3 Robux | 7 Robux | Baja (Diseños Premium) |
+
+<Callout type="success" title="Estrategia Rentable">
+Publica constantemente conjuntos combinados de camisa y pantalón. Los jugadores tienen el doble de probabilidades de comprar tu ropa clásica si pueden completar el look al instante.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+Entender las reglas y mecánicas de la venta de ropa en Roblox puede evitar la pérdida de Robux y errores en los listados. A continuación, se presentan las respuestas a las preguntas más comunes sobre cómo vender la ropa clásica de tu avatar.
+
+<FAQ items={[
+  {
+    question: "¿Necesito Roblox Premium para vender ropa clásica?",
+    answer: "No, no necesitas Roblox Premium para subir o vender ropa clásica. Cualquier persona puede subir camisas y pantalones por una tarifa de 10 Robux, o poner a la venta camisetas por 10 Robux."
+  },
+  {
+    question: "¿Cuánto tiempo tarda la ropa en ser aprobada por la moderación?",
+    answer: "El proceso de moderación suele tardar desde unos pocos minutos hasta unas pocas horas. Asegúrate de que tu diseño cumpla con todas las normas de seguridad para evitar rechazos."
+  },
+  {
+    question: "¿Puedo editar un artículo de ropa clásica después de subirlo?",
+    answer: "No puedes cambiar el archivo de la plantilla de imagen una vez que se ha subido. Sin embargo, puedes actualizar el título, la descripción, el precio y si está a la venta."
+  },
+  {
+    question: "¿Cuál es el precio mínimo para la ropa clásica?",
+    answer: "El precio mínimo establecido por Roblox para camisas y pantalones clásicos es de 5 Robux. Las camisetas clásicas también se pueden vender por un mínimo de 2 Robux, pero 5 Robux es el estándar."
+  }
+]} />
+
+<Callout type="info" title="Nota Final">
+Mantén siempre una copia de seguridad de tus archivos de plantilla originales. Si un diseño es rechazado, puedes modificar el archivo y volver a subirlo sin tener que empezar desde cero.
+</Callout>
+
+</Section>

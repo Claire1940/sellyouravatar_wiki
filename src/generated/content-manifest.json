@@ -1,1 +1,714 @@
-{}
+{
+  "de": {
+    "clothing": [
+      {
+        "slug": "sell-your-avatar-classic-clothing",
+        "file": "sell-your-avatar-classic-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-clothes-on-roblox",
+        "file": "sell-your-avatar-clothes-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-sales",
+        "file": "sell-your-avatar-clothing-sales"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-upload",
+        "file": "sell-your-avatar-clothing-upload"
+      },
+      {
+        "slug": "sell-your-avatar-layered-clothing",
+        "file": "sell-your-avatar-layered-clothing"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "sell-your-avatar-guide",
+        "file": "sell-your-avatar-guide"
+      },
+      {
+        "slug": "sell-your-avatar-how-it-works",
+        "file": "sell-your-avatar-how-it-works"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox",
+        "file": "sell-your-avatar-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-requirements",
+        "file": "sell-your-avatar-requirements"
+      },
+      {
+        "slug": "sell-your-avatar-step-by-step",
+        "file": "sell-your-avatar-step-by-step"
+      }
+    ],
+    "items": [
+      {
+        "slug": "sell-your-avatar-accessories",
+        "file": "sell-your-avatar-accessories"
+      },
+      {
+        "slug": "sell-your-avatar-creations",
+        "file": "sell-your-avatar-creations"
+      },
+      {
+        "slug": "sell-your-avatar-items-for-robux",
+        "file": "sell-your-avatar-items-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-items-on-roblox",
+        "file": "sell-your-avatar-items-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-limited-items",
+        "file": "sell-your-avatar-limited-items"
+      }
+    ],
+    "marketplace": [
+      {
+        "slug": "sell-your-avatar-catalog-avatar-creator",
+        "file": "sell-your-avatar-catalog-avatar-creator"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-marketplace",
+        "file": "sell-your-avatar-on-roblox-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-publish-to-marketplace",
+        "file": "sell-your-avatar-publish-to-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-ugc-items",
+        "file": "sell-your-avatar-ugc-items"
+      },
+      {
+        "slug": "sell-your-avatar-upload-to-marketplace",
+        "file": "sell-your-avatar-upload-to-marketplace"
+      }
+    ],
+    "mobile": [
+      {
+        "slug": "sell-your-avatar-mobile-upload",
+        "file": "sell-your-avatar-mobile-upload"
+      },
+      {
+        "slug": "sell-your-avatar-on-android",
+        "file": "sell-your-avatar-on-android"
+      },
+      {
+        "slug": "sell-your-avatar-on-ipad",
+        "file": "sell-your-avatar-on-ipad"
+      },
+      {
+        "slug": "sell-your-avatar-on-iphone",
+        "file": "sell-your-avatar-on-iphone"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-mobile",
+        "file": "sell-your-avatar-on-roblox-mobile"
+      }
+    ],
+    "refunds": [
+      {
+        "slug": "sell-your-avatar-get-robux-back",
+        "file": "sell-your-avatar-get-robux-back"
+      },
+      {
+        "slug": "sell-your-avatar-refund-clothing",
+        "file": "sell-your-avatar-refund-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-refund-items",
+        "file": "sell-your-avatar-refund-items"
+      },
+      {
+        "slug": "sell-your-avatar-refund-policy",
+        "file": "sell-your-avatar-refund-policy"
+      },
+      {
+        "slug": "sell-your-avatar-return-purchased-items",
+        "file": "sell-your-avatar-return-purchased-items"
+      }
+    ],
+    "robux": [
+      {
+        "slug": "sell-your-avatar-earn-robux",
+        "file": "sell-your-avatar-earn-robux"
+      },
+      {
+        "slug": "sell-your-avatar-for-robux",
+        "file": "sell-your-avatar-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-how-much-robux",
+        "file": "sell-your-avatar-how-much-robux"
+      },
+      {
+        "slug": "sell-your-avatar-robux-fees",
+        "file": "sell-your-avatar-robux-fees"
+      },
+      {
+        "slug": "sell-your-avatar-robux-payout",
+        "file": "sell-your-avatar-robux-payout"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "slug": "sell-your-avatar-does-not-show",
+        "file": "sell-your-avatar-does-not-show"
+      },
+      {
+        "slug": "sell-your-avatar-marketplace-error",
+        "file": "sell-your-avatar-marketplace-error"
+      },
+      {
+        "slug": "sell-your-avatar-robux-pending",
+        "file": "sell-your-avatar-robux-pending"
+      },
+      {
+        "slug": "sell-your-avatar-sale-not-received",
+        "file": "sell-your-avatar-sale-not-received"
+      },
+      {
+        "slug": "sell-your-avatar-upload-failed",
+        "file": "sell-your-avatar-upload-failed"
+      }
+    ]
+  },
+  "en": {
+    "clothing": [
+      {
+        "slug": "sell-your-avatar-classic-clothing",
+        "file": "sell-your-avatar-classic-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-clothes-on-roblox",
+        "file": "sell-your-avatar-clothes-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-sales",
+        "file": "sell-your-avatar-clothing-sales"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-upload",
+        "file": "sell-your-avatar-clothing-upload"
+      },
+      {
+        "slug": "sell-your-avatar-layered-clothing",
+        "file": "sell-your-avatar-layered-clothing"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "sell-your-avatar-guide",
+        "file": "sell-your-avatar-guide"
+      },
+      {
+        "slug": "sell-your-avatar-how-it-works",
+        "file": "sell-your-avatar-how-it-works"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox",
+        "file": "sell-your-avatar-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-requirements",
+        "file": "sell-your-avatar-requirements"
+      },
+      {
+        "slug": "sell-your-avatar-step-by-step",
+        "file": "sell-your-avatar-step-by-step"
+      }
+    ],
+    "items": [
+      {
+        "slug": "sell-your-avatar-accessories",
+        "file": "sell-your-avatar-accessories"
+      },
+      {
+        "slug": "sell-your-avatar-creations",
+        "file": "sell-your-avatar-creations"
+      },
+      {
+        "slug": "sell-your-avatar-items-for-robux",
+        "file": "sell-your-avatar-items-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-items-on-roblox",
+        "file": "sell-your-avatar-items-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-limited-items",
+        "file": "sell-your-avatar-limited-items"
+      }
+    ],
+    "marketplace": [
+      {
+        "slug": "sell-your-avatar-catalog-avatar-creator",
+        "file": "sell-your-avatar-catalog-avatar-creator"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-marketplace",
+        "file": "sell-your-avatar-on-roblox-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-publish-to-marketplace",
+        "file": "sell-your-avatar-publish-to-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-ugc-items",
+        "file": "sell-your-avatar-ugc-items"
+      },
+      {
+        "slug": "sell-your-avatar-upload-to-marketplace",
+        "file": "sell-your-avatar-upload-to-marketplace"
+      }
+    ],
+    "mobile": [
+      {
+        "slug": "sell-your-avatar-mobile-upload",
+        "file": "sell-your-avatar-mobile-upload"
+      },
+      {
+        "slug": "sell-your-avatar-on-android",
+        "file": "sell-your-avatar-on-android"
+      },
+      {
+        "slug": "sell-your-avatar-on-ipad",
+        "file": "sell-your-avatar-on-ipad"
+      },
+      {
+        "slug": "sell-your-avatar-on-iphone",
+        "file": "sell-your-avatar-on-iphone"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-mobile",
+        "file": "sell-your-avatar-on-roblox-mobile"
+      }
+    ],
+    "refunds": [
+      {
+        "slug": "sell-your-avatar-get-robux-back",
+        "file": "sell-your-avatar-get-robux-back"
+      },
+      {
+        "slug": "sell-your-avatar-refund-clothing",
+        "file": "sell-your-avatar-refund-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-refund-items",
+        "file": "sell-your-avatar-refund-items"
+      },
+      {
+        "slug": "sell-your-avatar-refund-policy",
+        "file": "sell-your-avatar-refund-policy"
+      },
+      {
+        "slug": "sell-your-avatar-return-purchased-items",
+        "file": "sell-your-avatar-return-purchased-items"
+      }
+    ],
+    "robux": [
+      {
+        "slug": "sell-your-avatar-earn-robux",
+        "file": "sell-your-avatar-earn-robux"
+      },
+      {
+        "slug": "sell-your-avatar-for-robux",
+        "file": "sell-your-avatar-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-how-much-robux",
+        "file": "sell-your-avatar-how-much-robux"
+      },
+      {
+        "slug": "sell-your-avatar-robux-fees",
+        "file": "sell-your-avatar-robux-fees"
+      },
+      {
+        "slug": "sell-your-avatar-robux-payout",
+        "file": "sell-your-avatar-robux-payout"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "slug": "sell-your-avatar-does-not-show",
+        "file": "sell-your-avatar-does-not-show"
+      },
+      {
+        "slug": "sell-your-avatar-marketplace-error",
+        "file": "sell-your-avatar-marketplace-error"
+      },
+      {
+        "slug": "sell-your-avatar-robux-pending",
+        "file": "sell-your-avatar-robux-pending"
+      },
+      {
+        "slug": "sell-your-avatar-sale-not-received",
+        "file": "sell-your-avatar-sale-not-received"
+      },
+      {
+        "slug": "sell-your-avatar-upload-failed",
+        "file": "sell-your-avatar-upload-failed"
+      }
+    ]
+  },
+  "es": {
+    "clothing": [
+      {
+        "slug": "sell-your-avatar-classic-clothing",
+        "file": "sell-your-avatar-classic-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-clothes-on-roblox",
+        "file": "sell-your-avatar-clothes-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-sales",
+        "file": "sell-your-avatar-clothing-sales"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-upload",
+        "file": "sell-your-avatar-clothing-upload"
+      },
+      {
+        "slug": "sell-your-avatar-layered-clothing",
+        "file": "sell-your-avatar-layered-clothing"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "sell-your-avatar-guide",
+        "file": "sell-your-avatar-guide"
+      },
+      {
+        "slug": "sell-your-avatar-how-it-works",
+        "file": "sell-your-avatar-how-it-works"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox",
+        "file": "sell-your-avatar-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-requirements",
+        "file": "sell-your-avatar-requirements"
+      },
+      {
+        "slug": "sell-your-avatar-step-by-step",
+        "file": "sell-your-avatar-step-by-step"
+      }
+    ],
+    "items": [
+      {
+        "slug": "sell-your-avatar-accessories",
+        "file": "sell-your-avatar-accessories"
+      },
+      {
+        "slug": "sell-your-avatar-creations",
+        "file": "sell-your-avatar-creations"
+      },
+      {
+        "slug": "sell-your-avatar-items-for-robux",
+        "file": "sell-your-avatar-items-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-items-on-roblox",
+        "file": "sell-your-avatar-items-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-limited-items",
+        "file": "sell-your-avatar-limited-items"
+      }
+    ],
+    "marketplace": [
+      {
+        "slug": "sell-your-avatar-catalog-avatar-creator",
+        "file": "sell-your-avatar-catalog-avatar-creator"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-marketplace",
+        "file": "sell-your-avatar-on-roblox-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-publish-to-marketplace",
+        "file": "sell-your-avatar-publish-to-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-ugc-items",
+        "file": "sell-your-avatar-ugc-items"
+      },
+      {
+        "slug": "sell-your-avatar-upload-to-marketplace",
+        "file": "sell-your-avatar-upload-to-marketplace"
+      }
+    ],
+    "mobile": [
+      {
+        "slug": "sell-your-avatar-mobile-upload",
+        "file": "sell-your-avatar-mobile-upload"
+      },
+      {
+        "slug": "sell-your-avatar-on-android",
+        "file": "sell-your-avatar-on-android"
+      },
+      {
+        "slug": "sell-your-avatar-on-ipad",
+        "file": "sell-your-avatar-on-ipad"
+      },
+      {
+        "slug": "sell-your-avatar-on-iphone",
+        "file": "sell-your-avatar-on-iphone"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-mobile",
+        "file": "sell-your-avatar-on-roblox-mobile"
+      }
+    ],
+    "refunds": [
+      {
+        "slug": "sell-your-avatar-get-robux-back",
+        "file": "sell-your-avatar-get-robux-back"
+      },
+      {
+        "slug": "sell-your-avatar-refund-clothing",
+        "file": "sell-your-avatar-refund-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-refund-items",
+        "file": "sell-your-avatar-refund-items"
+      },
+      {
+        "slug": "sell-your-avatar-refund-policy",
+        "file": "sell-your-avatar-refund-policy"
+      },
+      {
+        "slug": "sell-your-avatar-return-purchased-items",
+        "file": "sell-your-avatar-return-purchased-items"
+      }
+    ],
+    "robux": [
+      {
+        "slug": "sell-your-avatar-earn-robux",
+        "file": "sell-your-avatar-earn-robux"
+      },
+      {
+        "slug": "sell-your-avatar-for-robux",
+        "file": "sell-your-avatar-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-how-much-robux",
+        "file": "sell-your-avatar-how-much-robux"
+      },
+      {
+        "slug": "sell-your-avatar-robux-fees",
+        "file": "sell-your-avatar-robux-fees"
+      },
+      {
+        "slug": "sell-your-avatar-robux-payout",
+        "file": "sell-your-avatar-robux-payout"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "slug": "sell-your-avatar-does-not-show",
+        "file": "sell-your-avatar-does-not-show"
+      },
+      {
+        "slug": "sell-your-avatar-marketplace-error",
+        "file": "sell-your-avatar-marketplace-error"
+      },
+      {
+        "slug": "sell-your-avatar-robux-pending",
+        "file": "sell-your-avatar-robux-pending"
+      },
+      {
+        "slug": "sell-your-avatar-sale-not-received",
+        "file": "sell-your-avatar-sale-not-received"
+      },
+      {
+        "slug": "sell-your-avatar-upload-failed",
+        "file": "sell-your-avatar-upload-failed"
+      }
+    ]
+  },
+  "pt": {
+    "clothing": [
+      {
+        "slug": "sell-your-avatar-classic-clothing",
+        "file": "sell-your-avatar-classic-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-clothes-on-roblox",
+        "file": "sell-your-avatar-clothes-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-sales",
+        "file": "sell-your-avatar-clothing-sales"
+      },
+      {
+        "slug": "sell-your-avatar-clothing-upload",
+        "file": "sell-your-avatar-clothing-upload"
+      },
+      {
+        "slug": "sell-your-avatar-layered-clothing",
+        "file": "sell-your-avatar-layered-clothing"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "sell-your-avatar-guide",
+        "file": "sell-your-avatar-guide"
+      },
+      {
+        "slug": "sell-your-avatar-how-it-works",
+        "file": "sell-your-avatar-how-it-works"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox",
+        "file": "sell-your-avatar-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-requirements",
+        "file": "sell-your-avatar-requirements"
+      },
+      {
+        "slug": "sell-your-avatar-step-by-step",
+        "file": "sell-your-avatar-step-by-step"
+      }
+    ],
+    "items": [
+      {
+        "slug": "sell-your-avatar-accessories",
+        "file": "sell-your-avatar-accessories"
+      },
+      {
+        "slug": "sell-your-avatar-creations",
+        "file": "sell-your-avatar-creations"
+      },
+      {
+        "slug": "sell-your-avatar-items-for-robux",
+        "file": "sell-your-avatar-items-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-items-on-roblox",
+        "file": "sell-your-avatar-items-on-roblox"
+      },
+      {
+        "slug": "sell-your-avatar-limited-items",
+        "file": "sell-your-avatar-limited-items"
+      }
+    ],
+    "marketplace": [
+      {
+        "slug": "sell-your-avatar-catalog-avatar-creator",
+        "file": "sell-your-avatar-catalog-avatar-creator"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-marketplace",
+        "file": "sell-your-avatar-on-roblox-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-publish-to-marketplace",
+        "file": "sell-your-avatar-publish-to-marketplace"
+      },
+      {
+        "slug": "sell-your-avatar-ugc-items",
+        "file": "sell-your-avatar-ugc-items"
+      },
+      {
+        "slug": "sell-your-avatar-upload-to-marketplace",
+        "file": "sell-your-avatar-upload-to-marketplace"
+      }
+    ],
+    "mobile": [
+      {
+        "slug": "sell-your-avatar-mobile-upload",
+        "file": "sell-your-avatar-mobile-upload"
+      },
+      {
+        "slug": "sell-your-avatar-on-android",
+        "file": "sell-your-avatar-on-android"
+      },
+      {
+        "slug": "sell-your-avatar-on-ipad",
+        "file": "sell-your-avatar-on-ipad"
+      },
+      {
+        "slug": "sell-your-avatar-on-iphone",
+        "file": "sell-your-avatar-on-iphone"
+      },
+      {
+        "slug": "sell-your-avatar-on-roblox-mobile",
+        "file": "sell-your-avatar-on-roblox-mobile"
+      }
+    ],
+    "refunds": [
+      {
+        "slug": "sell-your-avatar-get-robux-back",
+        "file": "sell-your-avatar-get-robux-back"
+      },
+      {
+        "slug": "sell-your-avatar-refund-clothing",
+        "file": "sell-your-avatar-refund-clothing"
+      },
+      {
+        "slug": "sell-your-avatar-refund-items",
+        "file": "sell-your-avatar-refund-items"
+      },
+      {
+        "slug": "sell-your-avatar-refund-policy",
+        "file": "sell-your-avatar-refund-policy"
+      },
+      {
+        "slug": "sell-your-avatar-return-purchased-items",
+        "file": "sell-your-avatar-return-purchased-items"
+      }
+    ],
+    "robux": [
+      {
+        "slug": "sell-your-avatar-earn-robux",
+        "file": "sell-your-avatar-earn-robux"
+      },
+      {
+        "slug": "sell-your-avatar-for-robux",
+        "file": "sell-your-avatar-for-robux"
+      },
+      {
+        "slug": "sell-your-avatar-how-much-robux",
+        "file": "sell-your-avatar-how-much-robux"
+      },
+      {
+        "slug": "sell-your-avatar-robux-fees",
+        "file": "sell-your-avatar-robux-fees"
+      },
+      {
+        "slug": "sell-your-avatar-robux-payout",
+        "file": "sell-your-avatar-robux-payout"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "slug": "sell-your-avatar-does-not-show",
+        "file": "sell-your-avatar-does-not-show"
+      },
+      {
+        "slug": "sell-your-avatar-marketplace-error",
+        "file": "sell-your-avatar-marketplace-error"
+      },
+      {
+        "slug": "sell-your-avatar-robux-pending",
+        "file": "sell-your-avatar-robux-pending"
+      },
+      {
+        "slug": "sell-your-avatar-sale-not-received",
+        "file": "sell-your-avatar-sale-not-received"
+      },
+      {
+        "slug": "sell-your-avatar-upload-failed",
+        "file": "sell-your-avatar-upload-failed"
+      }
+    ]
+  }
+}

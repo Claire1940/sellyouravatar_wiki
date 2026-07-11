@@ -1,0 +1,169 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Venta de Avatar No Recibida: Guía de Solución de Problemas",
+  description: "Soluciona el problema de ventas de avatar no recibidas en Roblox. Aprende sobre Robux pendientes, historial de transacciones y cómo verificar tus ventas de atuendos.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Avatar+Sale+Troubleshooting",
+  date: "2026-07-11",
+  author: "Equipo de la Wiki de Vender Tu Avatar"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Resuelve el problema de **venta de avatar no recibida** revisando las transacciones pendientes.
+- **Mecánica clave**: Roblox retiene todas las ganancias de las ventas de atuendos en un depósito de seguridad para verificación.
+- **Mejor estrategia**: Verifica que tu atuendo contenga un objeto UGC personalizado o una camiseta para calificar para las comisiones.
+- **Consejo crítico**: Usa Catalog Avatar Creator para publicar atuendos si no tienes una suscripción Premium.
+- **Opción recomendada**: Revisa tu pestaña de Resumen en Roblox regularmente para rastrear el estado exacto de tus Robux pendientes.
+</Callout>
+
+<Section icon={Shield} title="Venta de Avatar No Recibida: Razones Principales">
+
+Experimentar un problema de **venta de avatar no recibida** puede ser frustrante, especialmente después de esforzarte en diseñar el atuendo perfecto. Cuando diseñas y publicas un atuendo de avatar, esperas ganar Robux cuando otros jugadores lo compran. Sin embargo, muchos creadores notan que su saldo no se actualiza inmediatamente después de que se reporta una venta. Este retraso suele estar relacionado con los sistemas de verificación de transacciones integrados de Roblox, más que con un error del sistema.
+
+**Puntos destacados del video:**
+- Aprende a diseñar y publicar atuendos personalizados en Roblox.
+- Entiende el requisito de añadir objetos UGC o camisas personalizadas para ganar Robux.
+- Descubre el método alternativo de publicación a través de Catalog Avatar Creator sin Premium.
+- Identifica cómo compartir códigos de atuendos para maximizar las ventas.
+
+<YouTubeEmbed videoId="-q-6MbRnILg" title="¡Cómo vender tu AVATAR por ROBUX!" />
+
+La razón más común por la que faltan fondos es el sistema de depósito (escrow) de Roblox. Cada vez que se vende un objeto o atuendo, Roblox retiene los Robux en un estado pendiente para evitar fraudes, transacciones no autorizadas y el doble gasto. Esta medida de seguridad garantiza que tanto el comprador como el vendedor estén protegidos. Durante periodos de alta carga del servidor o actualizaciones en todo el sitio, estos registros de transacciones pueden tardar más de lo habitual en aparecer en el resumen de tu cuenta.
+
+| Estado | Descripción | Duración Típica | Acción Requerida |
+| :--- | :--- | :--- | :--- |
+| Pendiente | Los Robux son retenidos por Roblox para verificación de seguridad | 3 a 7 días | Esperar a que se libere el depósito |
+| Éxito | Transacción completada y Robux añadidos al saldo | Instantáneo tras el depósito | Ninguna |
+| Fallido | Transacción cancelada debido a problemas de pago | Inmediato | Volver a verificar el pago del comprador |
+| Retrasado | Alta carga del servidor que retrasa los registros | 12 a 24 horas | Revisar la página de estado |
+
+<Callout type="warning" title="Retrasos en las Transacciones">
+El historial de transacciones de Roblox puede tardar hasta 24 horas en actualizarse durante las horas pico de juego. Siempre revisa la página oficial de Estado de Roblox si sospechas que el lag del servidor está afectando tus registros de ventas.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Cómo Vender Avatares con y sin Premium">
+
+Vender avatares en Roblox requiere comprender las limitaciones y características de la plataforma. Dependiendo de si tienes una suscripción activa de Roblox Premium, tu método para publicar y vender atuendos variará. Los usuarios Premium tienen acceso directo a las herramientas de creación de avatares dentro de la interfaz principal de Roblox, mientras que los usuarios sin Premium deben depender de suites de creación de terceros dentro del juego.
+
+Para ganar Robux con las ventas de tus atuendos, el avatar debe incluir al menos un objeto de contenido generado por el usuario (UGC), una camisa o una camiseta que tú hayas creado. Si tu atuendo solo contiene objetos creados por otros jugadores, no recibirás la comisión de creador.
+
+<CardGrid cols={2}>
+  <Card title="Método Premium">
+    - **Carga Directa**: Accede al signo más en el editor de avatares.
+    - **Descripción Personalizada**: Añade un nombre y descripción únicos directamente.
+    - **Costo en Robux**: Gratis para publicar si tienes una suscripción activa.
+  </Card>
+  <Card title="Catalog Avatar Creator">
+    - **Sin Premium**: Usa la terminal de publicación dentro del juego.
+    - **Códigos de Atuendo**: Genera códigos compartibles para atuendos de la comunidad.
+    - **Alta Visibilidad**: Llega a millones de jugadores directamente en el juego.
+  </Card>
+</CardGrid>
+
+| Característica | Método Premium | Método Catalog Avatar Creator |
+| :--- | :--- | :--- |
+| Requiere Suscripción | Sí | No |
+| Ubicación de Publicación | Catálogo de Roblox | Atuendos de la Comunidad (In-game) |
+| Costo de Creación | Gratis | Gratis |
+| Generación de Código | No | Sí |
+| Elegibilidad para Comisión | Sí | Sí |
+
+<Callout type="tip" title="Optimización de Comisiones">
+Asegúrate siempre de que tu camiseta personalizada u objeto UGC tenga el precio correcto antes de añadirlo a tu avatar. Si el objeto está configurado como "fuera de venta", no ganarás Robux cuando los jugadores compren el atuendo.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Solución de Problemas Paso a Paso para Ventas Faltantes">
+
+Si estás seguro de que se produjo una venta pero tu saldo no se ha actualizado, sigue estos pasos de solución de problemas para localizar tus fondos y verificar el estado de la transacción.
+
+<Steps>
+  <Step num="1" title="Accede a las Transacciones de Roblox">
+    Inicia sesión en tu cuenta de Roblox a través de un navegador web. Navega a la pestaña de Comercio (Trade) en la barra lateral izquierda y haz clic en la opción Resumen (Summary) para ver tus ventas pendientes.
+  </Step>
+  <Step num="2" title="Revisa los Robux Pendientes">
+    Observa la sección de Robux Pendientes. Si tu venta fue registrada, los Robux aparecerán listados aquí. Este saldo es independiente de tu saldo activo para gastos.
+  </Step>
+  <Step num="3" title="Verifica la Configuración del Objeto">
+    Ve a tu inventario y selecciona el objeto UGC o camiseta utilizada en el atuendo. Asegúrate de que el objeto esté configurado como "En Venta" y tenga un precio válido establecido.
+  </Step>
+  <Step num="4" title="Confirma el Estado del Atuendo en la Comunidad">
+    Si usaste Catalog Avatar Creator, abre el juego y revisa la pestaña de Atuendos de la Comunidad. Confirma que tu atuendo no haya sido moderado o eliminado.
+  </Step>
+</Steps>
+
+| Paso de Solución de Problemas | Qué Revisar | Resultado Esperado |
+| :--- | :--- | :--- |
+| Paso 1: Pestaña de Comercio | Detalles de la página de Resumen | Ver lista de transacciones recientes |
+| Paso 2: Saldo Pendiente | Total de Robux pendientes | Confirmar que los fondos están en depósito |
+| Paso 3: Ajustes del Objeto | Interruptor de "En Venta" | Asegurar que el objeto es comprable |
+| Paso 4: Catálogo del Juego | Estado de moderación del atuendo | Confirmar listado activo |
+
+<Callout type="info" title="Duración del Depósito">
+El soporte técnico no puede acelerar el periodo de Robux pendientes. El tiempo de retención está totalmente automatizado y depende del tamaño de la transacción y del historial de la cuenta.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Distribución de Robux y Tasas de Comisión">
+
+Cuando un jugador compra tu atuendo de avatar, los Robux gastados se distribuyen entre varias partes. Comprender esta distribución te ayuda a calcular exactamente cuántos Robux deberías recibir y evita confusiones cuando el pago final llegue a tu cuenta.
+
+La distribución depende de quién haya creado los objetos individuales dentro del atuendo. Si tú diseñaste las prendas de ropa, recibirás un porcentaje mayor que si simplemente recopilaste objetos diseñados por otros creadores de Roblox.
+
+| Categoría de Reparto de Ingresos | Porcentaje | Destinatario |
+| :--- | :--- | :--- |
+| Tarifa de la Plataforma | 30% | Roblox Corporation |
+| Comisión del Creador del Atuendo | 10% | El usuario que publicó el atuendo |
+| Comisión del Creador del Objeto | 60% | El creador de los objetos UGC/ropa individuales |
+
+<Checklist
+  id="avatar-sale-checklist"
+  title="Lista de Verificación Previa a la Publicación:"
+  items={[
+    "Verifica que tu camiseta personalizada u objeto UGC esté configurado para venta pública",
+    "Comprueba que el atuendo sea visible en el catálogo público de la comunidad",
+    "Confirma que tu cuenta de Roblox esté en buen estado y sin advertencias activas",
+    "Asegúrate de haber esperado al menos 7 días para que se liberen los Robux pendientes"
+  ]}
+/>
+
+<Callout type="success" title="Maximiza tus Ganancias">
+Para ganar el máximo de Robux posible, diseña tanto el conjunto del atuendo como las camisas individuales o accesorios UGC utilizados en el diseño. Esto te permite cobrar tanto la comisión de creador del atuendo como la del objeto.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Por qué mi venta de avatar no se recibe inmediatamente en mi saldo?",
+    answer: "Roblox retiene todas las ganancias de las ventas de avatares en un estado pendiente durante 3 a 7 días para verificar la seguridad de la transacción. Puedes ver estos fondos en la sección de Robux Pendientes en tu resumen de transacciones."
+  },
+  {
+    question: "¿Puedo vender atuendos y ganar Robux sin una suscripción Premium?",
+    answer: "Sí. Puedes usar el juego Catalog Avatar Creator para publicar tus atuendos en el catálogo de la comunidad. Seguirás ganando comisiones de Robux si tu atuendo contiene objetos creados por ti."
+  },
+  {
+    question: "¿Qué pasa si un comprador reembolsa la compra?",
+    answer: "Si una transacción es marcada o revertida por la moderación de Roblox, los Robux pendientes se eliminarán de tu saldo en depósito y la venta se marcará como nula."
+  },
+  {
+    question: "¿Por qué mis Robux pendientes no aparecen en mi historial de transacciones?",
+    answer: "Esto suele ocurrir debido a retrasos en el servidor o porque el método de pago del comprador no ha sido procesado completamente por Roblox. Espera hasta 24 horas para que el sistema se actualice."
+  }
+]} />
+
+</Section>

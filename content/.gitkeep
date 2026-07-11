@@ -1,3 +1,0 @@
-# 此目录存放 SELL YOUR AVATAR 的 MDX 内容（按 locale/content-type 组织）。
-# 当前为空：导航与内容类型将在后续 part 根据新游戏重新定义后填充。
-# 保留此占位文件是为了让 CI 的 scripts/generate-content-manifest.mjs 能正常运行（脚本要求 content/ 目录存在）。
