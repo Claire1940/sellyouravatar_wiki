@@ -1,12 +1,825 @@
 {
+  "seo": {
+    "home": {
+      "title": "Sell Your Avatar Wiki - Códigos, Coins, Estandes e Outfits",
+      "description": "A Wiki de Sell Your Avatar cobre códigos, Coins, estandes, outfits, dicas de troca e guias de loja para o jogo de marketplace de avatar social do Roblox.",
+      "keywords": "Sell Your Avatar, Sell Your Avatar wiki, Sell Your Avatar codes, Roblox Sell Your Avatar, marketplace de avatar, estandes, outfits, Coins",
+      "ogTitle": "Sell Your Avatar Wiki - Códigos, Coins, Estandes e Outfits",
+      "ogDescription": "A Wiki de Sell Your Avatar cobre códigos, Coins, estandes, outfits, dicas de troca e guias de loja para o jogo de marketplace de avatar social do Roblox.",
+      "twitterTitle": "Sell Your Avatar Wiki - Códigos, Coins, Estandes e Outfits",
+      "twitterDescription": "A Wiki de Sell Your Avatar cobre códigos, Coins, estandes, outfits, dicas de troca e guias de loja para o jogo de marketplace de avatar social do Roblox."
+    }
+  },
   "nav": {
     "guide": "Guia",
     "robux": "Robux",
     "items": "Itens",
-    "mobile": "Celular",
-    "marketplace": "Mercado",
+    "mobile": "Mobile",
+    "marketplace": "Marketplace",
     "clothing": "Roupas",
-    "troubleshooting": "Problemas",
+    "troubleshooting": "Solução de Problemas",
     "refunds": "Reembolsos"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Alterar Idioma",
+    "switchTheme": "Alterar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar para o Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Marketplace de Avatar Social",
+    "title": "Sell Your Avatar Wiki",
+    "description": "Crie outfits, exiba-os no seu estande, compre visuais criados por jogadores, ganhe Coins com compras e desbloqueie itens de avatar utilizáveis no Roblox.",
+    "getFreeCodesCTA": "Obter Códigos Grátis",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "3,1K",
+        "label": "Jogadores Online"
+      },
+      "stat2": {
+        "value": "94%",
+        "label": "Avaliação dos Jogadores"
+      },
+      "stat3": {
+        "value": "34K+",
+        "label": "Membros da Comunidade"
+      },
+      "stat4": {
+        "value": "Grátis",
+        "label": "Servidores VIP"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Sell Your Avatar",
+    "description": "Crie outfits, reivindique um estande, compre visuais criados por jogadores, ganhe Coins e desbloqueie itens de avatar que você pode usar no Roblox neste marketplace de avatar social."
+  },
+  "tools": {
+    "title": "Sell Your Avatar",
+    "titleHighlight": "Guias",
+    "subtitle": "Tudo o que você precisa para códigos, Coins, estandes, outfits, itens e atualizações em Sell Your Avatar.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Códigos",
+        "description": "Códigos promocionais ativos e expirados, além de como resgatá-los em Sell Your Avatar."
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia para Iniciantes",
+        "description": "Primeiros passos em Sell Your Avatar: crie um outfit, reivindique um estande e ganhe Coins."
+      },
+      {
+        "icon": "Coins",
+        "title": "Guia de Coins",
+        "description": "Todas as formas confirmadas de ganhar e gastar Coins em Sell Your Avatar."
+      },
+      {
+        "icon": "Shirt",
+        "title": "Estandes e Outfits",
+        "description": "Crie e exiba outfits que atraem compradores no seu estande de Sell Your Avatar."
+      },
+      {
+        "icon": "Package",
+        "title": "Itens e Recompensas",
+        "description": "Como funcionam os itens de avatar, Coins e compras em Sell Your Avatar."
+      },
+      {
+        "icon": "Backpack",
+        "title": "Inventário e Equipamento",
+        "description": "Encontre itens comprados de Sell Your Avatar e equipe-os no Roblox."
+      },
+      {
+        "icon": "Crown",
+        "title": "Roblox Plus",
+        "description": "Benefícios exclusivos de estande e do Roblox Plus dentro do Sell Your Avatar."
+      },
+      {
+        "icon": "Newspaper",
+        "title": "VIP e Atualizações",
+        "description": "Servidores VIP grátis, status do jogo e atualizações oficiais de Sell Your Avatar."
+      }
+    ]
+  },
+  "modules": {
+    "sellYourAvatarCodes": {
+      "eyebrow": "Códigos Promocionais",
+      "title": "Códigos de Sell Your Avatar",
+      "subtitle": "Verifique o status atual dos códigos promocionais de Sell Your Avatar e aprenda como resgatar códigos futuros para Coins e outras recompensas.",
+      "intro": "Sell Your Avatar inclui um menu de Promocodes no jogo, mas atualmente não há códigos ativos ou expirados disponíveis. Novos códigos podem ser inseridos através do menu de compras quando forem lançados.",
+      "statusCards": [
+        {
+          "status": "inativo",
+          "title": "Nenhum Código Ativo",
+          "description": "Atualmente não há códigos promocionais de Sell Your Avatar funcionando."
+        },
+        {
+          "status": "expirado",
+          "title": "Nenhum Código Expirado",
+          "description": "Nenhum código anterior de Sell Your Avatar foi documentado como expirado."
+        }
+      ],
+      "redeemSteps": [
+        {
+          "step": 1,
+          "title": "Abra o Menu de Compras",
+          "description": "Entre no Sell Your Avatar e selecione o ícone do carrinho de compras no lado esquerdo da tela."
+        },
+        {
+          "step": 2,
+          "title": "Selecione Promocodes",
+          "description": "Escolha o botão Promocodes no menu de compras."
+        },
+        {
+          "step": 3,
+          "title": "Insira o Código",
+          "description": "Cole o código no campo Insira o Código Aqui. Os códigos devem ser inseridos exatamente como publicados."
+        },
+        {
+          "step": 4,
+          "title": "Resgate a Recompensa",
+          "description": "Selecione Resgatar para enviar o código e receber sua recompensa."
+        }
+      ]
+    },
+    "sellYourAvatarBeginnerGuide": {
+      "eyebrow": "Primeiros Passos",
+      "title": "Como Jogar Sell Your Avatar",
+      "subtitle": "Crie um outfit, exiba-o em um estande, compre de outros jogadores e ganhe Coins através de compras de itens de avatar.",
+      "intro": "Sell Your Avatar é um jogo de compras social focado em outfits criados por jogadores. Você ganha Coins ao comprar itens de avatar de outfits expostos e quando outro jogador compra um item exibido no seu estande.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entre na Experiência",
+          "description": "Abra o Sell Your Avatar através de sua página oficial no Roblox e entre em um servidor público ou em um servidor VIP gratuito.",
+          "tip": "Um servidor VIP gratuito pode oferecer um lugar mais tranquilo para construir e gerenciar seu estande."
+        },
+        {
+          "step": 2,
+          "title": "Crie seu Outfit",
+          "description": "Escolha roupas, cabelos, rostos, acessórios e outros itens de avatar para montar um visual completo.",
+          "tip": "Use itens que combinem para que os compradores entendam imediatamente o tema do outfit."
+        },
+        {
+          "step": 3,
+          "title": "Reivindique um Estande",
+          "description": "Encontre um estande disponível na área de compras e reivindique-o ou selecione-o como seu espaço de exibição.",
+          "tip": "Escolha um estande que seja fácil de ser visto pelos jogadores que passam."
+        },
+        {
+          "step": 4,
+          "title": "Exiba o Outfit",
+          "description": "Coloque seu outfit finalizado no estande para que outros jogadores possam inspecionar os itens de avatar incluídos.",
+          "tip": "Verifique o outfit exibido após colocá-lo para garantir que todos os itens apareçam corretamente."
+        },
+        {
+          "step": 5,
+          "title": "Navegue por Outros Estandes",
+          "description": "Caminhe pela área de compras e inspecione outfits criados por outros jogadores.",
+          "tip": "Compare visuais completos em vez de comprar itens aleatórios que podem não combinar."
+        },
+        {
+          "step": 6,
+          "title": "Compre um Item de Avatar",
+          "description": "Compre um item exibido no outfit de outro jogador para ganhar Coins. O item comprado é adicionado ao seu inventário do Roblox.",
+          "tip": "Itens de avatar comprados podem ser equipados e usados em outras experiências do Roblox."
+        },
+        {
+          "step": 7,
+          "title": "Ganhe Coins com seu Estande",
+          "description": "Você recebe Coins quando outro jogador compra um item de avatar exibido como parte do seu outfit.",
+          "tip": "Mantenha um outfit completo e atraente exibido enquanto você continua comprando."
+        },
+        {
+          "step": 8,
+          "title": "Gaste seus Coins",
+          "description": "Use os Coins que você ganhar para obter itens de avatar que podem ser adicionados ao seu inventário do Roblox e usados em todo o Roblox.",
+          "tip": "Priorize itens que combinem com vários outfits em vez de gastar todos os seus Coins em um único tema restrito."
+        }
+      ]
+    },
+    "sellYourAvatarCoinsGuide": {
+      "eyebrow": "Guia de Moeda",
+      "title": "Guia de Coins de Sell Your Avatar",
+      "subtitle": "Aprenda os métodos confirmados para ganhar Coins e use sua moeda de forma mais eficaz ao comprar itens de avatar.",
+      "intro": "Coins são a principal moeda de progressão em Sell Your Avatar. O ciclo oficial de jogabilidade oferece dois métodos diretos de ganho: comprar um item do outfit exposto de outro jogador e receber uma compra através do seu próprio estande.",
+      "cards": [
+        {
+          "category": "Ganhar Coins",
+          "title": "Compre de Outfits de Jogadores",
+          "description": "Você ganha Coins ao comprar um item de avatar exibido no outfit de outro jogador.",
+          "details": [
+            "Navegue pelos estandes criados por outros jogadores.",
+            "Selecione um item de um outfit exibido.",
+            "Conclua a compra do item para receber Coins.",
+            "O item comprado é adicionado ao seu inventário do Roblox."
+          ]
+        },
+        {
+          "category": "Ganhar Coins",
+          "title": "Receba Compras no Estande",
+          "description": "Você ganha Coins quando outro jogador compra um item incluído no outfit exibido em seu estande.",
+          "details": [
+            "Crie um outfit de avatar completo.",
+            "Coloque o outfit em seu estande.",
+            "Mantenha o estande visível para outros compradores.",
+            "Receba Coins quando um item exibido for comprado."
+          ]
+        },
+        {
+          "category": "Gastar Coins",
+          "title": "Obtenha Itens de Avatar Usáveis",
+          "description": "Coins podem ser gastos em itens de avatar que são adicionados ao seu inventário do Roblox.",
+          "details": [
+            "Itens comprados permanecem conectados à sua conta do Roblox.",
+            "Itens podem ser equipados através do Editor de Avatar do Roblox.",
+            "Itens podem ser usados em outras experiências do Roblox que os suportem."
+          ]
+        },
+        {
+          "category": "Dica de Vendas",
+          "title": "Crie um Tema de Outfit Claro",
+          "description": "Use um tema reconhecível, como casual, formal, fantasia, streetwear ou monocromático, para que os compradores entendam o visual imediatamente.",
+          "details": [
+            "Combine roupas e acessórios.",
+            "Evite itens não relacionados que façam o outfit parecer inacabado.",
+            "Use uma ideia visual forte para cada outfit exibido."
+          ]
+        },
+        {
+          "category": "Dica de Vendas",
+          "title": "Exiba Visuais Completos",
+          "description": "Um outfit completo e coordenado oferece aos compradores mais itens para inspecionar e torna o estande mais fácil de navegar.",
+          "details": [
+            "Inclua roupas, cabelo e acessórios onde apropriado.",
+            "Verifique se os itens não se sobrepõem incorretamente.",
+            "Visualize o avatar completo antes de colocá-lo no estande."
+          ]
+        },
+        {
+          "category": "Dica de Gastos",
+          "title": "Compre Itens que Você Vá Usar",
+          "description": "Concentre-se em itens de avatar que combinem com seu guarda-roupa atual e possam ser reutilizados em vários outfits.",
+          "details": [
+            "Verifique o item antes de comprar.",
+            "Evite comprar um item apenas porque ele aparece em um estande popular.",
+            "Economize Coins para peças que melhorem múltiplos visuais."
+          ]
+        }
+      ]
+    },
+    "sellYourAvatarBoothOutfitGuide": {
+      "eyebrow": "Venda de Trajes",
+      "title": "Guia de Barraca e Trajes do Sell Your Avatar",
+      "subtitle": "Crie um visual de avatar coordenado, exiba-o corretamente e torne sua barraca mais fácil para outros jogadores comprarem.",
+      "intro": "Sua barraca conecta a criação de trajes com o sistema de Coins do jogo. Um jogador pode inspecionar o traje, comprar um de seus itens de avatar e adicionar esse item ao inventário do Roblox dele, enquanto você recebe Coins pela compra.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Escolha um Tema de Traje",
+          "description": "Comece com um estilo claro antes de selecionar itens individuais.",
+          "examples": [
+            "Streetwear casual",
+            "Aventureiro de fantasia",
+            "Traje formal",
+            "Visual pastel fofo",
+            "Estilo monocromático escuro"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Selecione a Roupa Principal",
+          "description": "Escolha as peças de roupa centrais primeiro para que o resto do traje tenha uma base consistente.",
+          "examples": [
+            "Combine a parte de cima e a de baixo.",
+            "Mantenha as cores principais consistentes.",
+            "Evite combinar peças com estilos visuais conflitantes."
+          ]
+        },
+        {
+          "step": 3,
+          "title": "Adicione Cabelo, Rostos e Acessórios",
+          "description": "Complete o traje com itens de avatar que apoiem o tema principal em vez de sobrecarregá-lo.",
+          "examples": [
+            "Use um cabelo que se ajuste à silhueta do traje.",
+            "Escolha um rosto que combine com o estilo pretendido.",
+            "Adicione apenas acessórios que melhorem o visual completo."
+          ]
+        },
+        {
+          "step": 4,
+          "title": "Verifique o Avatar Completo",
+          "description": "Visualize o traje e remova itens que atravessem, sobreponham ou escondam detalhes importantes da roupa.",
+          "examples": [
+            "Inspecione o avatar de vários ângulos.",
+            "Verifique roupas em camadas e acessórios grandes.",
+            "Use a opção de redesenhar do Roblox se um item equipado não estiver sendo exibido corretamente."
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Reivindique uma Barraca Disponível",
+          "description": "Selecione uma barraca não utilizada na área de compras e prepare-a para a exibição do seu traje.",
+          "examples": [
+            "Use uma barraca visível quando possível.",
+            "Evite deixar a barraca vazia.",
+            "Jogadores do Roblox Plus podem acessar uma barraca exclusiva."
+          ]
+        },
+        {
+          "step": 6,
+          "title": "Coloque o Traje na Sua Barraca",
+          "description": "Adicione o traje finalizado à barraca e confirme se os compradores conseguem ver os itens de avatar incluídos.",
+          "examples": [
+            "Certifique-se de que o traje correto está sendo exibido.",
+            "Verifique se a prévia do avatar foi carregada.",
+            "Confirme se os itens incluídos podem ser inspecionados."
+          ]
+        },
+        {
+          "step": 7,
+          "title": "Torne a Exibição Fácil de Entender",
+          "description": "Use um visual completo e focado para que os jogadores possam decidir rapidamente quais itens desejam inspecionar ou comprar.",
+          "examples": [
+            "Mantenha um tema principal por traje.",
+            "Use cores visualmente compatíveis.",
+            "Evite acessórios desnecessários que escondam outros itens."
+          ]
+        },
+        {
+          "step": 8,
+          "title": "Atualize o Traje Regularmente",
+          "description": "Substitua exibições fracas ou inacabadas por trajes melhor coordenados à medida que coleta mais itens de avatar.",
+          "examples": [
+            "Teste diferentes temas de trajes.",
+            "Mantenha combinações de itens bem-sucedidas juntas.",
+            "Use itens recém-adquiridos para melhorar exibições futuras."
+          ]
+        }
+      ]
+    },
+    "sellYourAvatarItemsRewardsGuide": {
+      "eyebrow": "Itens e Recompensas",
+      "title": "Guia de Itens e Recompensas do Sell Your Avatar",
+      "subtitle": "Saiba o que você gasta, o que ganha e para onde vai cada recompensa. Itens de avatar obtidos através da experiência são adicionados ao seu inventário do Roblox.",
+      "intro": "Sell Your Avatar conecta a economia de sua barraca a itens de avatar reais do Roblox. Comprar trajes de jogadores e atrair compradores para sua própria barraca rende Coins, enquanto Coins podem ser gastas em itens de avatar que permanecem vinculados à sua conta do Roblox.",
+      "tableHeaders": {
+        "action": "Ação",
+        "cost": "Custo",
+        "reward": "Recompensa",
+        "destination": "Destino do Item",
+        "details": "Detalhes Importantes"
+      },
+      "rows": [
+        {
+          "action": "Comprar um item do traje de outro jogador",
+          "cost": "O preço do item no Roblox mostrado na tela de compra",
+          "reward": "Coins",
+          "destination": "O item de avatar comprado é adicionado ao seu inventário do Roblox",
+          "details": "Revise o nome do item, tipo, criador, preço e a tela de confirmação antes de concluir a compra."
+        },
+        {
+          "action": "Um jogador compra um item exibido em seu traje",
+          "cost": "Sem custo direto para o dono da barraca",
+          "reward": "Coins",
+          "destination": "O comprador recebe o item de avatar comprado em seu inventário do Roblox",
+          "details": "Crie um traje, coloque-o em sua barraca e exiba itens que outros jogadores possam querer comprar."
+        },
+        {
+          "action": "Gastar Coins ganhas",
+          "cost": "Coins ganhas dentro do Sell Your Avatar",
+          "reward": "Um item de avatar do Roblox",
+          "destination": "O item é adicionado ao inventário do Roblox conectado à conta que está jogando a experiência",
+          "details": "Itens obtidos desta forma podem ser equipados no avatar e usados em outras experiências do Roblox."
+        },
+        {
+          "action": "Ganhar Coins",
+          "cost": "Compre trajes de jogadores ou gere compras através de sua barraca",
+          "reward": "Moeda de troca do Sell Your Avatar",
+          "destination": "O saldo de Coins permanece como parte do sistema de jogabilidade do Sell Your Avatar",
+          "details": "Coins são usadas para obter itens de avatar; elas são separadas do Robux."
+        },
+        {
+          "action": "Confirmar a compra de um item de avatar",
+          "cost": "O valor exibido na tela de confirmação final",
+          "reward": "Propriedade da conta do item selecionado",
+          "destination": "Categoria do inventário correspondente ao tipo de item, como cabelo, chapéus, rostos, animações ou Package",
+          "details": "Use a visualização 2D ou 3D da página do item e a opção Experimentar quando disponível. Compras confirmadas de itens do Roblox são geralmente definitivas."
+        }
+      ]
+    },
+    "sellYourAvatarInventoryEquipGuide": {
+      "eyebrow": "Inventário e Avatar",
+      "title": "Guia de Inventário e Equipamento do Sell Your Avatar",
+      "subtitle": "Itens obtidos através do Sell Your Avatar são armazenados no seu inventário do Roblox. Equipe-os através do Editor de Avatar no navegador, celular ou tablet.",
+      "intro": "Todas as compras de itens de avatar concluídas dentro do Sell Your Avatar são adicionadas ao inventário do Roblox da conta compradora. A categoria exata do inventário depende do tipo de item, e itens equipados podem ser usados em todo o Roblox.",
+      "items": [
+        {
+          "title": "Onde os itens comprados aparecem",
+          "summary": "Itens de avatar do Sell Your Avatar aparecem no seu inventário principal do Roblox, em vez de apenas dentro da experiência.",
+          "steps": [
+            "Entre na mesma conta do Roblox usada para fazer a compra.",
+            "Abra o seu Inventário do Roblox.",
+            "Verifique a categoria correspondente ao tipo de item, incluindo chapéus, cabelos, rostos, animações, roupas ou packages.",
+            "Abra a página do item para confirmar que ele pertence à sua conta."
+          ]
+        },
+        {
+          "title": "Equipar um item em um navegador web",
+          "summary": "Use o Editor de Avatar do Roblox para adicionar o item comprado ao seu avatar atual.",
+          "steps": [
+            "Abra o Avatar no menu de navegação do Roblox.",
+            "Selecione a categoria que corresponde ao item comprado.",
+            "Role até encontrar o item.",
+            "Selecione o ícone do item para que ele fique destacado e equipado.",
+            "Use a opção Redraw se a prévia do avatar não atualizar corretamente."
+          ]
+        },
+        {
+          "title": "Equipar ou remover um item no celular",
+          "summary": "Usuários de celular podem controlar itens equipados diretamente da página de inventário do item.",
+          "steps": [
+            "Abra seu inventário no aplicativo móvel do Roblox.",
+            "Selecione o item que deseja gerenciar.",
+            "Defina 'Wear This' como 'Yes' para equipar o item.",
+            "Defina 'Wear This' como 'No' para remover o item."
+          ]
+        },
+        {
+          "title": "Equipar um item em um tablet",
+          "summary": "O Editor de Avatar para tablet funciona de forma semelhante à versão de navegador.",
+          "steps": [
+            "Toque em Mais na parte inferior do aplicativo Roblox.",
+            "Toque em Avatar.",
+            "Abra a categoria de item correta.",
+            "Selecione o item comprado para equipá-lo."
+          ]
+        },
+        {
+          "title": "Usar o item em outras experiências do Roblox",
+          "summary": "As recompensas do Sell Your Avatar são ativos de avatar do Roblox vinculados à sua conta.",
+          "steps": [
+            "Equipe o item através do Editor de Avatar do Roblox.",
+            "Entre em outra experiência do Roblox usando a mesma conta.",
+            "O item equipado aparecerá com seu avatar onde quer que a experiência suporte a aparência padrão de avatar do Roblox."
+          ]
+        },
+        {
+          "title": "Verificar um item difícil de encontrar",
+          "summary": "Itens de inventário são separados em categorias, então o item pode não aparecer na primeira seção que você abrir.",
+          "steps": [
+            "Confirme que você está logado na conta que concluiu a compra.",
+            "Verifique todas as categorias de inventário prováveis.",
+            "Use o nome ou o tipo do item na sua página de detalhes para identificar a categoria correta.",
+            "Abra novamente o Editor de Avatar após confirmar a posse."
+          ]
+        }
+      ]
+    },
+    "sellYourAvatarRobloxPlusBenefits": {
+      "eyebrow": "Roblox Plus",
+      "title": "Benefícios do Roblox Plus no Sell Your Avatar",
+      "subtitle": "Jogadores com Roblox Plus recebem uma barraca exclusiva no Sell Your Avatar. A assinatura também oferece descontos em compras qualificadas e benefícios de servidores privados gratuitos em experiências do Roblox compatíveis.",
+      "intro": "A barraca exclusiva é a recompensa confirmada específica do jogo para o Roblox Plus. Outros benefícios vêm da assinatura geral do Roblox Plus e podem reduzir os custos de compras qualificadas de avatar ou dentro da experiência, além de fornecer acesso mais amplo a servidores privados.",
+      "tableHeaders": {
+        "benefit": "Benefício",
+        "plus": "Roblox Plus",
+        "standard": "Conta Padrão",
+        "impact": "Impacto no Sell Your Avatar"
+      },
+      "rows": [
+        {
+          "benefit": "Barraca exclusiva do Sell Your Avatar",
+          "plus": "Incluído",
+          "standard": "Não incluído",
+          "impact": "Assinantes Plus podem usar um design de barraca reservado para jogadores do Roblox Plus."
+        },
+        {
+          "benefit": "Desconto em compras qualificadas de avatar e dentro da experiência",
+          "plus": "10% de desconto imediato",
+          "standard": "Sem desconto do Roblox Plus",
+          "impact": "Compras qualificadas podem custar menos enquanto a assinatura do Roblox Plus estiver ativa."
+        },
+        {
+          "benefit": "Desconto por assinatura consecutiva",
+          "plus": "20% a partir do terceiro mês consecutivo",
+          "standard": "Sem desconto por assinatura consecutiva",
+          "impact": "Assinantes Plus de longo prazo recebem o desconto maior em compras qualificadas."
+        },
+        {
+          "benefit": "Servidores privados",
+          "plus": "Servidores privados gratuitos e ilimitados em experiências compatíveis",
+          "standard": "Utiliza o preço e as regras de acesso escolhidos pelo criador de cada experiência",
+          "impact": "O Sell Your Avatar anuncia um servidor VIP gratuito, que pode oferecer uma alternativa mais tranquila quando os servidores públicos estiverem com lag."
+        },
+        {
+          "benefit": "Robux mensais",
+          "plus": "Os pacotes Plus 500, Plus 1000 e Plus 2000 incluem a quantia mensal mencionada",
+          "standard": "Sem Robux de assinatura",
+          "impact": "Robux e Coins do Sell Your Avatar são saldos separados. Ganhar Coins não adiciona Robux à conta."
+        },
+        {
+          "benefit": "Trocar e revender itens de avatar compatíveis",
+          "plus": "Disponível para itens trocáveis ou limitados qualificados",
+          "standard": "Não incluído sem uma assinatura qualificada",
+          "impact": "Um item obtido através da experiência deve atender aos requisitos de troca ou revenda do próprio Roblox antes de poder ser trocado ou revendido."
+        },
+        {
+          "benefit": "Exclusões de desconto",
+          "plus": "Sem desconto em itens com preço superior a 1.000.000 Robux, itens revendidos, créditos de anúncio, taxas de publicação de UGC ou taxas de grupo",
+          "standard": "Não aplicável",
+          "impact": "A tela de confirmação final do Roblox mostra se um desconto foi aplicado a um item qualificado."
+        }
+      ]
+    },
+    "sellYourAvatarVipServersUpdates": {
+      "eyebrow": "Servidores e Atualizações",
+      "title": "Servidores VIP e Atualizações de Sell Your Avatar",
+      "subtitle": "Use a opção de servidor VIP gratuito para uma sessão menos cheia e siga as páginas oficiais do Roblox para alterações de disponibilidade, anúncios e atualizações de jogabilidade.",
+      "intro": "A descrição de Sell Your Avatar recomenda o uso de um servidor VIP gratuito quando os servidores públicos estiverem com lag. O acesso ao servidor é gerenciado a partir da página da experiência no Roblox, enquanto interrupções mais amplas do Roblox devem ser verificadas nos canais de serviço oficiais do Roblox.",
+      "cards": [
+        {
+          "title": "Disponibilidade atual da experiência",
+          "status": "Indisponível",
+          "statusType": "warn",
+          "description": "A listagem oficial do Roblox atualmente não mostra nenhuma experiência Sell Your Avatar em execução. Volte à página oficial do jogo para ver quando a entrada estará disponível novamente.",
+          "action": "Verifique as abas Sobre e Servidores na página oficial da experiência no Roblox."
+        },
+        {
+          "title": "Criar um servidor VIP de Sell Your Avatar",
+          "status": "Anunciado como gratuito",
+          "statusType": "ok",
+          "description": "A descrição oficial do jogo orienta os jogadores que estão enfrentando lag a usar um servidor VIP gratuito.",
+          "action": "Abra a página da experiência, selecione Servidores, encontre Servidores Privados, escolha Criar Servidor Privado, insira um nome para o servidor e conclua a configuração."
+        },
+        {
+          "title": "Entrar em um servidor privado existente",
+          "status": "Disponível quando o servidor estiver ativo",
+          "statusType": "ok",
+          "description": "A seção de Servidores Privados exibe os servidores que você criou e os servidores nos quais você tem permissão para entrar.",
+          "action": "Abra a aba Servidores e selecione um servidor privado ativo da sua lista."
+        },
+        {
+          "title": "Configurar acesso ao servidor",
+          "status": "Controlado pelo proprietário",
+          "statusType": "info",
+          "description": "Os proprietários de servidores privados podem renomear um servidor, permitir sua lista de amigos, adicionar até 50 usuários individuais e gerar um link de servidor compartilhável.",
+          "action": "Abra o menu de três pontos ao lado do servidor privado e selecione Configurar."
+        },
+        {
+          "title": "Restrições de conta para servidores privados",
+          "status": "As regras de privacidade do Roblox se aplicam",
+          "statusType": "info",
+          "description": "Usuários menores de 13 anos normalmente podem entrar em servidores privados de seus amigos, e seus próprios servidores normalmente são limitados a amigos. Usuários mais velhos também podem restringir quem pode adicioná-los a servidores privados.",
+          "action": "Revise as configurações de privacidade do Roblox quando um jogador permitido não conseguir entrar."
+        },
+        {
+          "title": "Lag em servidor público",
+          "status": "Use um servidor VIP primeiro",
+          "statusType": "warn",
+          "description": "Uma sessão privada pode reduzir a lotação e evita depender de uma instância pública cheia. Isso não corrigirá uma interrupção geral na plataforma Roblox.",
+          "action": "Mude para um servidor VIP, entre novamente na experiência e compare o desempenho."
+        },
+        {
+          "title": "Interrupção ou manutenção do Roblox",
+          "status": "Verifique as atualizações oficiais de serviço do Roblox",
+          "statusType": "warn",
+          "description": "Durante um problema de serviço no Roblox, a entrada pode falhar, as páginas podem apresentar lag e as compras concluídas podem aparecer com atraso. O Roblox afirma que produtos atrasados geralmente são aplicados em até uma hora e no máximo em 24 horas.",
+          "action": "Verifique as informações oficiais de status do Roblox antes de tentar realizar outra compra repetidamente."
+        },
+        {
+          "title": "Atualizações oficiais de Sell Your Avatar",
+          "status": "Gerenciado pelo desenvolvedor",
+          "statusType": "info",
+          "description": "A disponibilidade do jogo, alterações de descrição e informações importantes de jogabilidade são publicadas por meio da experiência oficial Sell Your Avatar e da comunidade SELL THE AVATAR no Roblox.",
+          "action": "Siga ambas as páginas oficiais do Roblox para anúncios dos desenvolvedores e informações de reabertura."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre Sell Your Avatar",
+    "questions": [
+      {
+        "question": "O que é Sell Your Avatar no Roblox?",
+        "answer": "Sell Your Avatar é um jogo social de compras no Roblox onde você cria outfits, exibe-os em um estande e ganha Coins quando outros jogadores compram itens de avatar dos seus visuais expostos."
+      },
+      {
+        "question": "Como eu ganho Coins em Sell Your Avatar?",
+        "answer": "Em Sell Your Avatar, você ganha Coins de duas maneiras: comprando itens de avatar dos outfits expostos de outros jogadores e recebendo Coins quando outro jogador compra um item exibido no seu próprio estande."
+      },
+      {
+        "question": "Existem códigos ativos de Sell Your Avatar?",
+        "answer": "Atualmente não há códigos promocionais ativos de Sell Your Avatar. O menu de códigos promocionais está integrado ao menu de compras, portanto, quaisquer códigos futuros poderão ser resgatados lá assim que forem lançados."
+      },
+      {
+        "question": "Os itens de avatar de Sell Your Avatar ficam no meu inventário do Roblox?",
+        "answer": "Sim. Os itens de avatar obtidos em Sell Your Avatar são adicionados ao seu inventário do Roblox e podem ser equipados por meio do Editor de Avatar, sendo então usados em outras experiências do Roblox que suportem a aparência padrão de avatar."
+      },
+      {
+        "question": "Sell Your Avatar é gratuito para jogar?",
+        "answer": "Sim. Sell Your Avatar é gratuito para jogar no Roblox e também oferece uma opção de servidor VIP gratuito que você pode criar a partir da página da experiência quando os servidores públicos estiverem com lag."
+      },
+      {
+        "question": "Sell Your Avatar tem um estande do Roblox Plus?",
+        "answer": "Sim. Os assinantes do Roblox Plus desbloqueiam um estande exclusivo em Sell Your Avatar, além de benefícios mais amplos do Roblox Plus, como descontos em compras qualificadas e servidores privados gratuitos em experiências compatíveis."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para Sell Your Avatar?",
+    "description": "Entre no marketplace de avatar social do Roblox, monte seu estande e comece a ganhar Coins hoje mesmo!",
+    "joinCommunity": "Navegar pelos Guias",
+    "joinGame": "Jogar no Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Sell Your Avatar",
+    "description": "Seu hub de recursos completo para códigos, Coins, estandes, outfits, trocas e guias de loja de Sell Your Avatar.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Jurídico",
+    "roblox": "Jogo no Roblox",
+    "youtube": "Guia do YouTube",
+    "support": "Suporte do Roblox",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Sell Your Avatar Wiki. Não afiliado aos desenvolvedores de Sell Your Avatar.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guia de Sell Your Avatar",
+      "description": "Saiba como Sell Your Avatar funciona no Roblox: crie outfits, reivindique um estande, compre visuais de jogadores e ganhe Coins pelo marketplace social.",
+      "metaTitle": "Guia de Sell Your Avatar - Como Funciona no Roblox",
+      "metaDescription": "Domine o Sell Your Avatar no Roblox com guias passo a passo sobre como criar outfits, reivindicar estandes, comprar visuais e ganhar Coins.",
+      "categoryLabel": "GUIAS",
+      "whatIs": "O que é Sell Your Avatar?",
+      "whatIsDescription": "Sell Your Avatar é um marketplace de avatar social no Roblox onde você monta outfits, exibe-os em um estande, navega e compra peças de outros jogadores e ganha Coins a cada compra.",
+      "why": "Por que ler estes guias?",
+      "whySteps": {
+        "step1Title": "Comece com o Básico",
+        "step1Description": "Entenda o ciclo de outfit para estande para compra para que sua primeira sessão seja produtiva.",
+        "step2Title": "Atenda aos Requisitos",
+        "step2Description": "Verifique os requisitos de conta e assinatura antes de publicar ou vender qualquer item.",
+        "step3Title": "Jogue Passo a Passo",
+        "step3Description": "Siga tutoriais claros para criar, listar e vender seus visuais de avatar."
+      },
+      "featured": "Guias em Destaque",
+      "all": "Todos os Guias"
+    },
+    "robux": {
+      "title": "Guia de Robux de Sell Your Avatar",
+      "description": "Transforme criações de Sell Your Avatar em Robux: acompanhe pagamentos, taxas e maneiras comprovadas de ganhar com cada item vendido no Roblox.",
+      "metaTitle": "Guia de Robux de Sell Your Avatar - Ganhe Pagamentos Reais",
+      "metaDescription": "Saiba como ganhar Robux no Sell Your Avatar, incluindo o tempo de pagamento, taxas do marketplace e os melhores itens para vender com lucro.",
+      "categoryLabel": "ROBUX",
+      "whatIs": "Como funcionam os pagamentos de Robux?",
+      "whatIsDescription": "Quando os jogadores compram suas criações de Sell Your Avatar, os Robux que você ganha são processados pelo sistema de pagamento padrão do Roblox após a aplicação das taxas do marketplace.",
+      "why": "Por que acompanhar seus Robux?",
+      "whySteps": {
+        "step1Title": "Conheça Seus Pagamentos",
+        "step1Description": "Veja exatamente quantos Robux cada venda adiciona ao seu saldo após as taxas.",
+        "step2Title": "Monitore o Período de Pendência",
+        "step2Description": "Planeje-se de acordo com o período de Robux pendentes do Roblox para saber quando os fundos chegarão.",
+        "step3Title": "Maximize os Ganhos",
+        "step3Description": "Escolha os itens e faixas de preço que geram mais Robux de forma consistente."
+      },
+      "featured": "Guias de Robux em Destaque",
+      "all": "Todos os Guias de Robux"
+    },
+    "items": {
+      "title": "Guia de Itens de Sell Your Avatar",
+      "description": "Venda itens de Sell Your Avatar por Robux: acessórios, criações e peças limitadas, além de como os itens comprados entram no seu inventário do Roblox.",
+      "metaTitle": "Guia de Itens de Sell Your Avatar - Acessórios, Criações e Limitados",
+      "metaDescription": "Descubra como vender itens de Sell Your Avatar por Robux, incluindo acessórios, criações de jogadores e itens limitados que mantêm valor de revenda.",
+      "categoryLabel": "ITENS",
+      "whatIs": "O que você pode vender?",
+      "whatIsDescription": "O Sell Your Avatar permite que você liste acessórios, criações personalizadas e itens limitados selecionados para que outros jogadores possam comprá-los e adicioná-los ao próprio inventário do Roblox.",
+      "why": "Por que vender itens?",
+      "whySteps": {
+        "step1Title": "Alcance Mais Compradores",
+        "step1Description": "Os itens listados aparecem para todos os jogadores que compram no marketplace de avatar.",
+        "step2Title": "Ganhe com Criações",
+        "step2Description": "Transforme seus acessórios e designs personalizados em uma renda constante de Robux.",
+        "step3Title": "Troque Limitados",
+        "step3Description": "Itens limitados podem manter o valor e se tornar colecionáveis cobiçados com o tempo."
+      },
+      "featured": "Guias de Itens em Destaque",
+      "all": "Todos os Guias de Itens"
+    },
+    "mobile": {
+      "title": "Guia Mobile do Sell Your Avatar",
+      "description": "Jogue e venda no Sell Your Avatar pelo iPhone, iPad e Android: passos completos de upload, listagem e configuração de booth no celular.",
+      "metaTitle": "Guia Mobile do Sell Your Avatar - iPhone, iPad e Android",
+      "metaDescription": "Use o Sell Your Avatar no Roblox mobile (iPhone, iPad, Android) com passos completos para upload, listagem e venda de outfits em telas touch.",
+      "categoryLabel": "MOBILE",
+      "whatIs": "Você pode vender no mobile?",
+      "whatIsDescription": "Sim. O Sell Your Avatar funciona no iPhone, iPad e Android através do app Roblox, então você pode criar, fazer upload e vender outfits inteiramente pelo seu celular ou tablet.",
+      "why": "Por que um guia mobile dedicado?",
+      "whySteps": {
+        "step1Title": "Passos Otimizados para Touch",
+        "step1Description": "Siga fluxos de upload e listagem criados para telas touch pequenas.",
+        "step2Title": "Funciona em Todos os Dispositivos",
+        "step2Description": "Abrange iPhone, iPad e Android com um processo consistente.",
+        "step3Title": "Venda em Qualquer Lugar",
+        "step3Description": "Gerencie seu booth e vendas de qualquer lugar sem precisar de um PC."
+      },
+      "featured": "Guias Mobile em Destaque",
+      "all": "Todos os Guias Mobile"
+    },
+    "marketplace": {
+      "title": "Guia de Marketplace do Sell Your Avatar",
+      "description": "Faça upload e publique criações do Sell Your Avatar no marketplace do Roblox e no Catalog Avatar Creator, incluindo itens UGC que vendem para todos os jogadores.",
+      "metaTitle": "Guia de Marketplace do Sell Your Avatar - Upload, Publicação e UGC",
+      "metaDescription": "Saiba como fazer upload e publicar itens do Sell Your Avatar no marketplace do Roblox e no Catalog Avatar Creator, incluindo a publicação de itens UGC.",
+      "categoryLabel": "MARKETPLACE",
+      "whatIs": "O que é o fluxo do marketplace?",
+      "whatIsDescription": "O marketplace do Roblox é onde suas criações do Sell Your Avatar são enviadas, revisadas e publicadas para que qualquer jogador possa descobri-las e comprá-las.",
+      "why": "Por que publicar no marketplace?",
+      "whySteps": {
+        "step1Title": "Faça Upload Corretamente",
+        "step1Description": "Envie recursos da maneira certa para que passem na revisão de primeira.",
+        "step2Title": "Publique com o Catalog Avatar Creator",
+        "step2Description": "Use o Catalog Avatar Creator para transformar outfits em listagens vendáveis.",
+        "step3Title": "Venda Itens UGC",
+        "step3Description": "Alcance o maior público listando seus itens como UGC."
+      },
+      "featured": "Guias de Marketplace em Destaque",
+      "all": "Todos os Guias de Marketplace"
+    },
+    "clothing": {
+      "title": "Guia de Roupas do Sell Your Avatar",
+      "description": "Venda roupas do Sell Your Avatar no Roblox: roupas clássicas, roupas em camadas, passos de upload e dicas de vendas para vender seus designs mais rápido.",
+      "metaTitle": "Guia de Roupas do Sell Your Avatar - Roupas Clássicas e em Camadas",
+      "metaDescription": "Crie e venda roupas do Sell Your Avatar no Roblox, incluindo roupas clássicas, roupas em camadas, requisitos de upload e estratégias de vendas.",
+      "categoryLabel": "ROUPAS",
+      "whatIs": "Quais roupas você pode vender?",
+      "whatIsDescription": "O Sell Your Avatar suporta tanto roupas clássicas (camisas e calças 2D) quanto roupas em camadas (itens 3D que servem em qualquer avatar), oferecendo dois formatos para criar e vender.",
+      "why": "Por que focar em roupas?",
+      "whySteps": {
+        "step1Title": "Dois Formatos",
+        "step1Description": "Escolha entre roupas clássicas e em camadas com base em suas habilidades de design.",
+        "step2Title": "Uploads Limpos",
+        "step2Description": "Cumpra as regras de template e upload para que suas roupas fiquem online rapidamente.",
+        "step3Title": "Aumente as Vendas",
+        "step3Description": "Precifique e exiba suas roupas para atrair mais compradores."
+      },
+      "featured": "Guias de Roupas em Destaque",
+      "all": "Todos os Guias de Roupas"
+    },
+    "troubleshooting": {
+      "title": "Solução de Problemas do Sell Your Avatar",
+      "description": "Corrija problemas do Sell Your Avatar rapidamente: itens que não aparecem, erros de marketplace e upload, Robux pendentes e vendas que nunca chegaram.",
+      "metaTitle": "Solução de Problemas do Sell Your Avatar - Correções para Erros e Robux Pendentes",
+      "metaDescription": "Resolva problemas comuns do Sell Your Avatar, incluindo itens que não aparecem, erros de upload e marketplace, Robux pendentes e vendas ausentes.",
+      "categoryLabel": "SUPORTE",
+      "whatIs": "O que pode dar errado?",
+      "whatIsDescription": "A maioria dos problemas do Sell Your Avatar vem de erros de upload, atrasos na listagem ou janelas de Robux pendentes, e cada um tem uma correção conhecida que você pode aplicar em poucos passos.",
+      "why": "Por que usar esta central de solução de problemas?",
+      "whySteps": {
+        "step1Title": "Encontre a Causa Real",
+        "step1Description": "Relacione seu erro exato a uma correção comprovada em vez de tentar adivinhar.",
+        "step2Title": "Corrija Uploads e Listagens",
+        "step2Description": "Resolva erros de marketplace para que seus itens apareçam para os compradores.",
+        "step3Title": "Rastreie Robux Pendentes",
+        "step3Description": "Saiba quando os Robux pendentes e as vendas ausentes realmente chegam."
+      },
+      "featured": "Soluções em Destaque",
+      "all": "Todas as Soluções de Problemas"
+    },
+    "refunds": {
+      "title": "Guia de Reembolsos de Sell Your Avatar",
+      "description": "Recupere Robux em Sell Your Avatar: regras de reembolso e devolução de itens e roupas, além de como lidar com compras acidentais da maneira certa.",
+      "metaTitle": "Guia de Reembolsos de Sell Your Avatar - Recupere Robux",
+      "metaDescription": "Entenda os reembolsos de Sell Your Avatar, incluindo como recuperar Robux, devolver itens e roupas, e a política de reembolso da Roblox para compras.",
+      "categoryLabel": "REEMBOLSOS",
+      "whatIs": "Como funcionam os reembolsos?",
+      "whatIsDescription": "As compras em Sell Your Avatar seguem a política de reembolso da Roblox, que define quando o Robux pode ser devolvido e como as devoluções de itens e roupas são tratadas.",
+      "why": "Por que conhecer as regras de reembolso?",
+      "whySteps": {
+        "step1Title": "Recuperar Robux",
+        "step1Description": "Veja os casos exatos em que uma compra pode realmente ser revertida.",
+        "step2Title": "Devolver Itens e Roupas",
+        "step2Description": "Siga o processo correto para itens e roupas indesejados.",
+        "step3Title": "Evite Erros",
+        "step3Description": "Confirme as compras da maneira certa para reduzir compras acidentais."
+      },
+      "featured": "Guias de Reembolso em Destaque",
+      "all": "Todos os Guias de Reembolso"
+    }
   }
 }
