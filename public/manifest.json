@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Sell Your Avatar Wiki - Codes, Coins, Booths & Outfits",
+  "short_name": "Sell Your Avatar",
+  "description": "Sell Your Avatar Wiki covers codes, coin farming, booth setup, outfit selling, avatar items, free UGC rewards, VIP servers, and the latest Roblox updates.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#e4437c",
+  "background_color": "#fdf7fa",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
