@@ -28,6 +28,14 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // SELL YOUR AVATAR 主题图标（换装 / 摊位 / 购物 / 货币）
+  Gift: LucideIcons.Gift,
+  Coins: LucideIcons.Coins,
+  Shirt: LucideIcons.Shirt,
+  Backpack: LucideIcons.Backpack,
+  Crown: LucideIcons.Crown,
+  Newspaper: LucideIcons.Newspaper,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
