@@ -10,14 +10,7 @@
       "twitterDescription": "Sell Your Avatar Wiki covers codes, Coins, booths, outfits, trading tips, and shop guides for the Roblox social avatar marketplace game."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
